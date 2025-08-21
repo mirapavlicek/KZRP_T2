@@ -35,12 +35,29 @@ Swagger poběží na `http://localhost:5000` resp. `https://localhost:5001` (pod
   - `POST /provide-and-register`, `GET /entries`, `GET /entries/{id}`
 - **Testovací rámec** `/api/v1/test`
   - `POST /seed?count=20`, `GET /status`
+  
+### Rychlý start s testovacími daty
+```bash
+curl -X POST "http://localhost:5000/api/v1/test/seed?count=20"
 
 ## Perzistence
-Data se ukládají do `Data/runtime/<Typ>.json`. Binarie z dočasného úložiště jsou v `Data/runtime/Binary/TemporaryDocument/<id>`.
+Číselníky a mapy konceptů jsou read-only a očekávají se v `Data/CodeSets` a `Data/CodeSets/ConceptMaps`.
 
 ## Číselníky
-Základní (ilustrační) podmnožinu ICD-10 a SNOMED přináší `CodeSetService`. Rozšiřte úpravou kódu nebo přidáním vlastních importérů.
+Číselníky se načítají při startu z adresáře `Data/CodeSets` a mapy konceptů z `Data/CodeSets/ConceptMaps`.
+
+### Dodané datové sady (syntetické pro účely testů)
+- **ICD-10**: `Data/CodeSets/icd10@2024.json` — ~150 položek (např. I10, E11, J06.9, A09)
+- **SNOMED CT (syntetický výčet)**: `Data/CodeSets/snomed_extended.json` — ~650 položek
+- **LOINC (syntetický výčet)**: `Data/CodeSets/loinc_extended.json` — ~550 položek
+- **UCUM jednotky**: `Data/CodeSets/ucum.json` — 100+ položek
+- **ConceptMap ICD-10 → SNOMED**: `Data/CodeSets/ConceptMaps/icd10-to-snomed.json` — reálné dvojice pro I10, E11, J06.9, A09 mají vztah `equivalent`, ostatní jsou označeny `related`.
+
+> Poznámka: SNOMED/LOINC zde nejsou oficiální úplné licencované sady. Slouží jen k syntetickému testování.
+
+### Rozšíření číselníků
+- Pro nahrazení nebo rozšíření stačí upravit JSON soubory nebo doplnit vlastní importér v `CodeSetService`.
+- Simulator při startu validuje základní strukturu JSON (kód + popis / zobrazení).
 
 ## Poznámky
 - Cílem je simulátor. Nejedná se o produkční implementaci standardů EZ. 
