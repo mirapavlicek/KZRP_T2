@@ -1,0 +1,10 @@
+{
+  "patientId": "SJOK-fWrEki1jGg00KEGPQ",
+  "requestingProviderId": "VHX8BLiWxEyJN6D1LB-Mdg",
+  "type": "Lab",
+  "priority": 0,
+  "status": 0,
+  "orderedAt": "2025-08-21T17:22:33.415674+00:00",
+  "id": "VHngurGXb0Wlym2TEBChTg",
+  "createdAt": "2025-08-21T17:22:33.415673+00:00"
+}

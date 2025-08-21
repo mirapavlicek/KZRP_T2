@@ -1,0 +1,12 @@
+{
+  "type": "OrderCreated",
+  "topic": "e\u017D\u00E1danky",
+  "payload": {
+    "orderId": "GevB6KEoTUStZlFpe0UToA",
+    "patientId": "Kvx9CtctPU62niON-aPPCg"
+  },
+  "status": "new",
+  "occurredAt": "2025-08-21T17:22:33.417092+00:00",
+  "id": "71vpIfANXky9u38jyuqsVA",
+  "createdAt": "2025-08-21T17:22:33.417092+00:00"
+}

@@ -62,7 +62,7 @@ app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "NCEZ Simulator v1");
-    c.RoutePrefix = string.Empty; // Swagger at root
+    c.RoutePrefix = "swagger"; // místo string.Empty
 });
 
 app.UseStaticFiles();

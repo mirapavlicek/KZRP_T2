@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-21T17:24:20.256+00:00",
+  "actorId": "string",
+  "action": "string",
+  "resourceType": "string",
+  "resourceId": "string",
+  "outcome": "string",
+  "details": "string",
+  "id": "093ylR3KG02uhWuiKVHmOg",
+  "createdAt": "2025-08-21T17:24:21.435997+00:00",
+  "modifiedAt": "2025-08-21T17:24:20.256+00:00"
+}

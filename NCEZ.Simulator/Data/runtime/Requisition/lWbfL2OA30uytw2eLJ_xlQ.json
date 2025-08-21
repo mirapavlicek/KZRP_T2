@@ -1,0 +1,10 @@
+{
+  "patientId": "ymEnYHG1ZkO2kgN-ZTgcLg",
+  "requestingProviderId": "oWbs4og24kefQmM5fqoIfA",
+  "type": "Lab",
+  "priority": 0,
+  "status": 0,
+  "orderedAt": "2025-08-21T17:22:33.417441+00:00",
+  "id": "lWbfL2OA30uytw2eLJ_xlQ",
+  "createdAt": "2025-08-21T17:22:33.417441+00:00"
+}

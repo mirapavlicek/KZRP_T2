@@ -1,0 +1,15 @@
+{
+  "patientId": "string",
+  "classCode": "string",
+  "typeCode": "string",
+  "formatCode": "string",
+  "repositoryUniqueId": "string",
+  "documentUniqueId": "MZqzLAI1UEGN1P5RH9ftgQ",
+  "title": "string",
+  "serviceStart": "2025-08-21T17:21:20.033+00:00",
+  "serviceEnd": "2025-08-21T17:21:20.033+00:00",
+  "documentRef": "string",
+  "id": "MZqzLAI1UEGN1P5RH9ftgQ",
+  "createdAt": "2025-08-21T17:21:22.474612+00:00",
+  "modifiedAt": "2025-08-21T17:21:20.033+00:00"
+}

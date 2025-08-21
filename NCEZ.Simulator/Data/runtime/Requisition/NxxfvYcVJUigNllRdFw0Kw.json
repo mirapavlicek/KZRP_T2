@@ -1,0 +1,12 @@
+{
+  "patientId": "string",
+  "requestingProviderId": "string",
+  "type": "string",
+  "priority": 0,
+  "status": 0,
+  "orderedAt": "2025-08-21T17:23:12.648+00:00",
+  "note": "string",
+  "id": "NxxfvYcVJUigNllRdFw0Kw",
+  "createdAt": "2025-08-21T17:23:17.977435+00:00",
+  "modifiedAt": "2025-08-21T17:23:12.648+00:00"
+}

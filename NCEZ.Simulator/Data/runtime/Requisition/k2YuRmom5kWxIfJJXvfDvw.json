@@ -1,0 +1,10 @@
+{
+  "patientId": "oU9aml3_7Euj8HzcVquEYg",
+  "requestingProviderId": "1Ag9MZ5LUU2bNheVjRUxqg",
+  "type": "Imaging",
+  "priority": 0,
+  "status": 0,
+  "orderedAt": "2025-08-21T17:22:33.416124+00:00",
+  "id": "k2YuRmom5kWxIfJJXvfDvw",
+  "createdAt": "2025-08-21T17:22:33.416124+00:00"
+}

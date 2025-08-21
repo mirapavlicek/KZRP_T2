@@ -3,12 +3,19 @@ using Microsoft.AspNetCore.Mvc;
 using NCEZ.Simulator.Models;
 using NCEZ.Simulator.Services;
 using System.Security.Cryptography;
+using System.ComponentModel.DataAnnotations;
 
 namespace NCEZ.Simulator.Controllers;
 
 [ApiController]
 [Route("api/v1/temp-storage")]
 [Tags("Dočasné úložiště")]
+public sealed class UploadForm
+{
+    [Required] public IFormFile File { get; set; } = default!;
+    public string? UploaderId { get; set; }
+    public string[]? Tags { get; set; }
+}
 public sealed class TemporaryStorageController : ControllerBase
 {
     private readonly IJsonRepository<TemporaryDocument> _repo;
@@ -22,8 +29,13 @@ public sealed class TemporaryStorageController : ControllerBase
     }
 
     [HttpPost("documents")]
-    [RequestSizeLimit(100_000_000)] // 100 MB
-    public async Task<ActionResult<IdResponse>> Upload([FromForm] IFormFile file, [FromForm] string? uploaderId, [FromForm] string[]? tags, CancellationToken ct)
+    [Consumes("multipart/form-data")]
+    [RequestSizeLimit(100_000_000)]
+    public async Task<ActionResult<IdResponse>> Upload(
+     IFormFile file,                 // bez [FromForm]
+     [FromForm] string? uploaderId,
+     [FromForm] string[]? tags,
+     CancellationToken ct)
     {
         if (file == null || file.Length == 0) return BadRequest("Empty file.");
         var id = _ids.NewId();

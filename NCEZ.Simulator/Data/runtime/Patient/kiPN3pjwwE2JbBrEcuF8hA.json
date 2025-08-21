@@ -1,0 +1,10 @@
+{
+  "identifier": "string",
+  "givenName": "string",
+  "familyName": "string",
+  "birthDate": "2025-08-21T17:21:59.786Z",
+  "sex": "string",
+  "id": "kiPN3pjwwE2JbBrEcuF8hA",
+  "createdAt": "2025-08-21T17:22:03.073607+00:00",
+  "modifiedAt": "2025-08-21T17:21:59.786+00:00"
+}
