@@ -37,7 +37,6 @@ Swagger poběží na `http://localhost:5000` resp. `https://localhost:5001` (pod
   - `POST /seed?count=20`, `GET /status`
   
 ### Rychlý start s testovacími daty
-```bash
 curl -X POST "http://localhost:5000/api/v1/test/seed?count=20"
 
 ## Perzistence
