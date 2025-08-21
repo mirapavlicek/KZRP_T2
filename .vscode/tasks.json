@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build NCEZ.Simulator",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "build",
+        "${workspaceFolder}/NCEZ.Simulator/NCEZ.Simulator.csproj",
+        "-c","Debug"
+      ],
+      "problemMatcher": "$msCompile",
+      "group": "build"
+    },
+    {
+      "label": "watch NCEZ.Simulator",
+      "type": "process",
+      "command": "dotnet",
+      "args": [
+        "watch","run","--project",
+        "${workspaceFolder}/NCEZ.Simulator/NCEZ.Simulator.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+
+# Build
+bin/
+obj/
+# VSCode
+.vscode/
+# User secrets
+secrets.json
+# Data runtime
+src/NCEZ.Simulator/Data/runtime/
