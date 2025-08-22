@@ -1,0 +1,2602 @@
+[
+  {
+    "code": "44054006",
+    "display": "Diabetes mellitus type 2 (disorder)"
+  },
+  {
+    "code": "38341003",
+    "display": "Hypertensive disorder, systemic arterial (disorder)"
+  },
+  {
+    "code": "386661006",
+    "display": "Fever (finding)"
+  },
+  {
+    "code": "27113001",
+    "display": "Body temperature (observable entity)"
+  },
+  {
+    "code": "8129070",
+    "display": "Epilepsy community-acquired (disorder)"
+  },
+  {
+    "code": "0763186",
+    "display": "Atopic dermatitis community-acquired (disorder)"
+  },
+  {
+    "code": "5825958",
+    "display": "Pseudomonas aeruginosa community-acquired (organism)"
+  },
+  {
+    "code": "270205",
+    "display": "Ibuprofen right (substance)"
+  },
+  {
+    "code": "27347972",
+    "display": "Insulin glargine suspected (substance)"
+  },
+  {
+    "code": "3106283118",
+    "display": "Vaccination status unknown nosocomial (situation)"
+  },
+  {
+    "code": "266769525121",
+    "display": "Osteoarthritis (disorder)"
+  },
+  {
+    "code": "310250",
+    "display": "MRI brain chronic (procedure)"
+  },
+  {
+    "code": "359781457089",
+    "display": "Hemodialysis right (procedure)"
+  },
+  {
+    "code": "06960439008",
+    "display": "Metformin suspected (substance)"
+  },
+  {
+    "code": "028050230",
+    "display": "Jaundice congenital (finding)"
+  },
+  {
+    "code": "653019",
+    "display": "COPD chronic (disorder)"
+  },
+  {
+    "code": "3618869742",
+    "display": "Skin suspected (body structure)"
+  },
+  {
+    "code": "240924171",
+    "display": "Streptococcus pneumoniae congenital (organism)"
+  },
+  {
+    "code": "0094595456",
+    "display": "Pseudomonas aeruginosa acute (organism)"
+  },
+  {
+    "code": "107903",
+    "display": "eGFR bilateral (observable entity)"
+  },
+  {
+    "code": "11329764148",
+    "display": "Klebsiella pneumoniae severe (organism)"
+  },
+  {
+    "code": "6527641",
+    "display": "Blood glucose level mild (observable entity)"
+  },
+  {
+    "code": "397894",
+    "display": "Skin (body structure)"
+  },
+  {
+    "code": "67716395",
+    "display": "Heart rate acute (observable entity)"
+  },
+  {
+    "code": "2939545525",
+    "display": "Amoxicillin mild (substance)"
+  },
+  {
+    "code": "21021505213",
+    "display": "Cholecystectomy severe (procedure)"
+  },
+  {
+    "code": "49129639",
+    "display": "Ear community-acquired (body structure)"
+  },
+  {
+    "code": "291451",
+    "display": "CRP community-acquired (observable entity)"
+  },
+  {
+    "code": "356656222499",
+    "display": "Exposure to tuberculosis community-acquired (situation)"
+  },
+  {
+    "code": "41334907279",
+    "display": "Skin suspected (body structure)"
+  },
+  {
+    "code": "71390885332",
+    "display": "Chest pain bilateral (finding)"
+  },
+  {
+    "code": "9089657",
+    "display": "Serum creatinine right (observable entity)"
+  },
+  {
+    "code": "528342",
+    "display": "Allergic to penicillin community-acquired (situation)"
+  },
+  {
+    "code": "7195272",
+    "display": "Clopidogrel right (substance)"
+  },
+  {
+    "code": "871610113",
+    "display": "Amoxicillin severe (substance)"
+  },
+  {
+    "code": "679056621939",
+    "display": "Norovirus mild (organism)"
+  },
+  {
+    "code": "240876969",
+    "display": "Rotavirus right (organism)"
+  },
+  {
+    "code": "8417650697",
+    "display": "Multiple sclerosis right (disorder)"
+  },
+  {
+    "code": "878715",
+    "display": "Clopidogrel acute (substance)"
+  },
+  {
+    "code": "852627792959",
+    "display": "CT thorax bilateral (procedure)"
+  },
+  {
+    "code": "327241288",
+    "display": "Lung right (body structure)"
+  },
+  {
+    "code": "419092525",
+    "display": "Atorvastatin left (substance)"
+  },
+  {
+    "code": "631894711190",
+    "display": "Insulin glargine nosocomial (substance)"
+  },
+  {
+    "code": "9014045",
+    "display": "Appendectomy (procedure)"
+  },
+  {
+    "code": "86436749",
+    "display": "Atorvastatin (substance)"
+  },
+  {
+    "code": "2015485796",
+    "display": "History of smoking congenital (situation)"
+  },
+  {
+    "code": "2384564",
+    "display": "Streptococcus pneumoniae chronic (organism)"
+  },
+  {
+    "code": "5180700",
+    "display": "Vaccination status unknown suspected (situation)"
+  },
+  {
+    "code": "518429",
+    "display": "Hypothyroidism congenital (disorder)"
+  },
+  {
+    "code": "823041396",
+    "display": "Rash acute (finding)"
+  },
+  {
+    "code": "30755086047",
+    "display": "Escherichia coli nosocomial (organism)"
+  },
+  {
+    "code": "0535229536",
+    "display": "Klebsiella pneumoniae congenital (organism)"
+  },
+  {
+    "code": "1751564997",
+    "display": "Heart failure mild (disorder)"
+  },
+  {
+    "code": "8368601",
+    "display": "X-ray chest acute (procedure)"
+  },
+  {
+    "code": "810998048023",
+    "display": "Family history of diabetes suspected (situation)"
+  },
+  {
+    "code": "815501121963",
+    "display": "History of smoking acute (situation)"
+  },
+  {
+    "code": "69153592",
+    "display": "Exposure to tuberculosis bilateral (situation)"
+  },
+  {
+    "code": "014933",
+    "display": "Exposure to tuberculosis community-acquired (situation)"
+  },
+  {
+    "code": "029696",
+    "display": "Serum sodium right (observable entity)"
+  },
+  {
+    "code": "5270928",
+    "display": "Multiple sclerosis suspected (disorder)"
+  },
+  {
+    "code": "3848599901",
+    "display": "Family history of diabetes acute (situation)"
+  },
+  {
+    "code": "7002811",
+    "display": "Losartan severe (substance)"
+  },
+  {
+    "code": "253166821031",
+    "display": "Platelet count congenital (observable entity)"
+  },
+  {
+    "code": "134151",
+    "display": "Insulin glargine bilateral (substance)"
+  },
+  {
+    "code": "3292205725",
+    "display": "Psoriasis mild (disorder)"
+  },
+  {
+    "code": "32811425",
+    "display": "Lung severe (body structure)"
+  },
+  {
+    "code": "30785038",
+    "display": "Insulin glargine severe (substance)"
+  },
+  {
+    "code": "567017349475",
+    "display": "Polyuria bilateral (finding)"
+  },
+  {
+    "code": "43313358725",
+    "display": "Joint pain right (finding)"
+  },
+  {
+    "code": "011070",
+    "display": "Diabetes mellitus (disorder)"
+  },
+  {
+    "code": "717205973",
+    "display": "Clopidogrel bilateral (substance)"
+  },
+  {
+    "code": "31799321",
+    "display": "CABG nosocomial (procedure)"
+  },
+  {
+    "code": "27832900",
+    "display": "Amoxicillin suspected (substance)"
+  },
+  {
+    "code": "02096985",
+    "display": "Gastroenteritis severe (disorder)"
+  },
+  {
+    "code": "36607044",
+    "display": "Amoxicillin nosocomial (substance)"
+  },
+  {
+    "code": "8630458850",
+    "display": "Anxiety disorder chronic (disorder)"
+  },
+  {
+    "code": "68755106198",
+    "display": "eGFR left (observable entity)"
+  },
+  {
+    "code": "561068",
+    "display": "Heart failure congenital (disorder)"
+  },
+  {
+    "code": "202415",
+    "display": "Respiratory rate suspected (observable entity)"
+  },
+  {
+    "code": "07425576",
+    "display": "Acetylsalicylic acid right (substance)"
+  },
+  {
+    "code": "41715114199",
+    "display": "Oxygen saturation right (observable entity)"
+  },
+  {
+    "code": "2286240",
+    "display": "Osteoarthritis (disorder)"
+  },
+  {
+    "code": "35785799994",
+    "display": "Joint pain right (finding)"
+  },
+  {
+    "code": "160317095",
+    "display": "Rotavirus (organism)"
+  },
+  {
+    "code": "7925856497",
+    "display": "Bronchoscopy acute (procedure)"
+  },
+  {
+    "code": "248601941",
+    "display": "Fatigue congenital (finding)"
+  },
+  {
+    "code": "79983651810",
+    "display": "Clopidogrel acute (substance)"
+  },
+  {
+    "code": "113226230269",
+    "display": "Allergic to penicillin acute (situation)"
+  },
+  {
+    "code": "4257018171",
+    "display": "Joint pain community-acquired (finding)"
+  },
+  {
+    "code": "82846512934",
+    "display": "Syncope acute (finding)"
+  },
+  {
+    "code": "0903100657",
+    "display": "Brain (body structure)"
+  },
+  {
+    "code": "33958058801",
+    "display": "History of smoking (situation)"
+  },
+  {
+    "code": "10549170310",
+    "display": "Family history of diabetes right (situation)"
+  },
+  {
+    "code": "518581115959",
+    "display": "eGFR community-acquired (observable entity)"
+  },
+  {
+    "code": "5287640308",
+    "display": "CT abdomen bilateral (procedure)"
+  },
+  {
+    "code": "52189766605",
+    "display": "Amlodipine acute (substance)"
+  },
+  {
+    "code": "49274986",
+    "display": "Skin nosocomial (body structure)"
+  },
+  {
+    "code": "8089472",
+    "display": "Stomach congenital (body structure)"
+  },
+  {
+    "code": "79298893",
+    "display": "Liver cirrhosis bilateral (disorder)"
+  },
+  {
+    "code": "189240",
+    "display": "CRP left (observable entity)"
+  },
+  {
+    "code": "056710723",
+    "display": "Streptococcus pneumoniae left (organism)"
+  },
+  {
+    "code": "70421526323",
+    "display": "Streptococcus pneumoniae community-acquired (organism)"
+  },
+  {
+    "code": "825570905387",
+    "display": "Heart failure right (disorder)"
+  },
+  {
+    "code": "3246199",
+    "display": "Influenza virus right (organism)"
+  },
+  {
+    "code": "6001051",
+    "display": "Multiple sclerosis congenital (disorder)"
+  },
+  {
+    "code": "887867821803",
+    "display": "Streptococcus pneumoniae community-acquired (organism)"
+  },
+  {
+    "code": "42165277827",
+    "display": "Multiple sclerosis nosocomial (disorder)"
+  },
+  {
+    "code": "252719634327",
+    "display": "Psoriasis congenital (disorder)"
+  },
+  {
+    "code": "675264",
+    "display": "Cholecystectomy severe (procedure)"
+  },
+  {
+    "code": "12597066",
+    "display": "Migraine severe (disorder)"
+  },
+  {
+    "code": "598531199688",
+    "display": "Omeprazole acute (substance)"
+  },
+  {
+    "code": "778274",
+    "display": "Norovirus left (organism)"
+  },
+  {
+    "code": "462592200267",
+    "display": "Jaundice chronic (finding)"
+  },
+  {
+    "code": "2520607010",
+    "display": "Peptic ulcer disease suspected (disorder)"
+  },
+  {
+    "code": "729673098",
+    "display": "Escherichia coli severe (organism)"
+  },
+  {
+    "code": "811802",
+    "display": "Diabetes mellitus community-acquired (disorder)"
+  },
+  {
+    "code": "8138542",
+    "display": "Oxygen saturation severe (observable entity)"
+  },
+  {
+    "code": "130236",
+    "display": "Allergic to penicillin acute (situation)"
+  },
+  {
+    "code": "4451581239",
+    "display": "Kidney acute (body structure)"
+  },
+  {
+    "code": "032530226254",
+    "display": "Hematuria chronic (finding)"
+  },
+  {
+    "code": "9210739860",
+    "display": "Vaccination status unknown right (situation)"
+  },
+  {
+    "code": "288308979326",
+    "display": "Edema congenital (finding)"
+  },
+  {
+    "code": "1506557382",
+    "display": "PCI community-acquired (procedure)"
+  },
+  {
+    "code": "24923462774",
+    "display": "Oxygen saturation mild (observable entity)"
+  },
+  {
+    "code": "9500391679",
+    "display": "PCI acute (procedure)"
+  },
+  {
+    "code": "7431981286",
+    "display": "Ear right (body structure)"
+  },
+  {
+    "code": "178397521861",
+    "display": "Allergic to penicillin (situation)"
+  },
+  {
+    "code": "5613141",
+    "display": "Kidney severe (body structure)"
+  },
+  {
+    "code": "4019667",
+    "display": "CT thorax acute (procedure)"
+  },
+  {
+    "code": "745714",
+    "display": "Metformin left (substance)"
+  },
+  {
+    "code": "867784",
+    "display": "Leukocyte count severe (observable entity)"
+  },
+  {
+    "code": "5476840",
+    "display": "Amoxicillin congenital (substance)"
+  },
+  {
+    "code": "375751738246",
+    "display": "Rotavirus congenital (organism)"
+  },
+  {
+    "code": "917947284212",
+    "display": "Colonoscopy nosocomial (procedure)"
+  },
+  {
+    "code": "537040455987",
+    "display": "Vaccination status unknown right (situation)"
+  },
+  {
+    "code": "857001468807",
+    "display": "Headache bilateral (finding)"
+  },
+  {
+    "code": "265500",
+    "display": "Pseudomonas aeruginosa acute (organism)"
+  },
+  {
+    "code": "2109967",
+    "display": "Proteinuria suspected (finding)"
+  },
+  {
+    "code": "846573830008",
+    "display": "Platelet count nosocomial (observable entity)"
+  },
+  {
+    "code": "683734360",
+    "display": "Exposure to tuberculosis bilateral (situation)"
+  },
+  {
+    "code": "78002541604",
+    "display": "Klebsiella pneumoniae mild (organism)"
+  },
+  {
+    "code": "9840786",
+    "display": "Abdominal pain severe (finding)"
+  },
+  {
+    "code": "91682116",
+    "display": "Liver cirrhosis bilateral (disorder)"
+  },
+  {
+    "code": "094610",
+    "display": "Migraine severe (disorder)"
+  },
+  {
+    "code": "68269902",
+    "display": "Clopidogrel left (substance)"
+  },
+  {
+    "code": "018661729",
+    "display": "Oxygen saturation mild (observable entity)"
+  },
+  {
+    "code": "7262597",
+    "display": "MRI brain congenital (procedure)"
+  },
+  {
+    "code": "1062200057",
+    "display": "Brain suspected (body structure)"
+  },
+  {
+    "code": "73775824",
+    "display": "History of smoking bilateral (situation)"
+  },
+  {
+    "code": "541921220",
+    "display": "Serum creatinine suspected (observable entity)"
+  },
+  {
+    "code": "6378379",
+    "display": "Paracetamol acute (substance)"
+  },
+  {
+    "code": "01317161",
+    "display": "Staphylococcus aureus severe (organism)"
+  },
+  {
+    "code": "88236784",
+    "display": "CRP right (observable entity)"
+  },
+  {
+    "code": "858414928407",
+    "display": "Influenza virus right (organism)"
+  },
+  {
+    "code": "779247964293",
+    "display": "Heart rate congenital (observable entity)"
+  },
+  {
+    "code": "588194017",
+    "display": "Cyanosis chronic (finding)"
+  },
+  {
+    "code": "93522259953",
+    "display": "Amlodipine severe (substance)"
+  },
+  {
+    "code": "31882271115",
+    "display": "Staphylococcus aureus mild (organism)"
+  },
+  {
+    "code": "01217031382",
+    "display": "Omeprazole acute (substance)"
+  },
+  {
+    "code": "391406582",
+    "display": "Bronchoscopy (procedure)"
+  },
+  {
+    "code": "4988920",
+    "display": "Parkinson disease suspected (disorder)"
+  },
+  {
+    "code": "870517",
+    "display": "Klebsiella pneumoniae right (organism)"
+  },
+  {
+    "code": "1172555149",
+    "display": "Atopic dermatitis nosocomial (disorder)"
+  },
+  {
+    "code": "253684",
+    "display": "Serum potassium (observable entity)"
+  },
+  {
+    "code": "023696219867",
+    "display": "Amoxicillin acute (substance)"
+  },
+  {
+    "code": "69538109277",
+    "display": "Liver congenital (body structure)"
+  },
+  {
+    "code": "153410",
+    "display": "Platelet count nosocomial (observable entity)"
+  },
+  {
+    "code": "54164558907",
+    "display": "History of smoking mild (situation)"
+  },
+  {
+    "code": "5681805",
+    "display": "Oxygen saturation bilateral (observable entity)"
+  },
+  {
+    "code": "4519745",
+    "display": "Serum potassium suspected (observable entity)"
+  },
+  {
+    "code": "58925781",
+    "display": "Atorvastatin chronic (substance)"
+  },
+  {
+    "code": "795947",
+    "display": "Omeprazole community-acquired (substance)"
+  },
+  {
+    "code": "909470514918",
+    "display": "Vomiting (finding)"
+  },
+  {
+    "code": "9010346",
+    "display": "Otalgia chronic (finding)"
+  },
+  {
+    "code": "043593523368",
+    "display": "Ibuprofen bilateral (substance)"
+  },
+  {
+    "code": "518351017",
+    "display": "Peritoneal dialysis bilateral (procedure)"
+  },
+  {
+    "code": "31532625338",
+    "display": "Chest pain nosocomial (finding)"
+  },
+  {
+    "code": "8026407",
+    "display": "SARS-CoV-2 (organism)"
+  },
+  {
+    "code": "576129",
+    "display": "Rash (finding)"
+  },
+  {
+    "code": "31391510111",
+    "display": "Hemoglobin congenital (observable entity)"
+  },
+  {
+    "code": "411355",
+    "display": "History of smoking chronic (situation)"
+  },
+  {
+    "code": "624258603",
+    "display": "Spleen severe (body structure)"
+  },
+  {
+    "code": "47571969",
+    "display": "Exposure to tuberculosis community-acquired (situation)"
+  },
+  {
+    "code": "662716897",
+    "display": "Hemoglobin congenital (observable entity)"
+  },
+  {
+    "code": "645754971607",
+    "display": "Liver cirrhosis (disorder)"
+  },
+  {
+    "code": "463365",
+    "display": "Atorvastatin (substance)"
+  },
+  {
+    "code": "68998372558",
+    "display": "Vaccination status unknown right (situation)"
+  },
+  {
+    "code": "700870183",
+    "display": "Stroke severe (disorder)"
+  },
+  {
+    "code": "03420085507",
+    "display": "Vaccination status unknown chronic (situation)"
+  },
+  {
+    "code": "66021989006",
+    "display": "Sore throat community-acquired (finding)"
+  },
+  {
+    "code": "72138832724",
+    "display": "PCI suspected (procedure)"
+  },
+  {
+    "code": "132843243",
+    "display": "History of smoking severe (situation)"
+  },
+  {
+    "code": "356739832075",
+    "display": "Respiratory rate suspected (observable entity)"
+  },
+  {
+    "code": "506454316",
+    "display": "CT thorax acute (procedure)"
+  },
+  {
+    "code": "977818",
+    "display": "Liver congenital (body structure)"
+  },
+  {
+    "code": "5259842582",
+    "display": "Serum sodium nosocomial (observable entity)"
+  },
+  {
+    "code": "758115389",
+    "display": "Serum potassium community-acquired (observable entity)"
+  },
+  {
+    "code": "4085234",
+    "display": "Hypertension community-acquired (disorder)"
+  },
+  {
+    "code": "7737797",
+    "display": "Skin community-acquired (body structure)"
+  },
+  {
+    "code": "2679914",
+    "display": "Blood pressure nosocomial (observable entity)"
+  },
+  {
+    "code": "4413265932",
+    "display": "Amlodipine acute (substance)"
+  },
+  {
+    "code": "95805334",
+    "display": "Sore throat bilateral (finding)"
+  },
+  {
+    "code": "619522088845",
+    "display": "Liver right (body structure)"
+  },
+  {
+    "code": "6158318524",
+    "display": "Serum sodium mild (observable entity)"
+  },
+  {
+    "code": "977296385361",
+    "display": "CRP acute (observable entity)"
+  },
+  {
+    "code": "3890648321",
+    "display": "Paracetamol mild (substance)"
+  },
+  {
+    "code": "763718523",
+    "display": "Allergic to penicillin mild (situation)"
+  },
+  {
+    "code": "421073",
+    "display": "MRI brain nosocomial (procedure)"
+  },
+  {
+    "code": "2441342",
+    "display": "Bone right (body structure)"
+  },
+  {
+    "code": "2578063658",
+    "display": "Eye community-acquired (body structure)"
+  },
+  {
+    "code": "374975438",
+    "display": "Acetylsalicylic acid bilateral (substance)"
+  },
+  {
+    "code": "242117404690",
+    "display": "Body temperature left (observable entity)"
+  },
+  {
+    "code": "559998956093",
+    "display": "Dizziness suspected (finding)"
+  },
+  {
+    "code": "621380897136",
+    "display": "CABG chronic (procedure)"
+  },
+  {
+    "code": "33634657",
+    "display": "Chronic kidney disease right (disorder)"
+  },
+  {
+    "code": "8382718867",
+    "display": "Pseudomonas aeruginosa mild (organism)"
+  },
+  {
+    "code": "08181513363",
+    "display": "Gastroscopy community-acquired (procedure)"
+  },
+  {
+    "code": "4594200",
+    "display": "Insulin glargine bilateral (substance)"
+  },
+  {
+    "code": "7881082214",
+    "display": "Pseudomonas aeruginosa mild (organism)"
+  },
+  {
+    "code": "357162",
+    "display": "Ear (body structure)"
+  },
+  {
+    "code": "09906080048",
+    "display": "X-ray chest chronic (procedure)"
+  },
+  {
+    "code": "70363904",
+    "display": "Chest pain community-acquired (finding)"
+  },
+  {
+    "code": "2884672",
+    "display": "Edema chronic (finding)"
+  },
+  {
+    "code": "77485553357",
+    "display": "Pneumonia right (disorder)"
+  },
+  {
+    "code": "292625",
+    "display": "Spleen community-acquired (body structure)"
+  },
+  {
+    "code": "299871704618",
+    "display": "Back pain congenital (finding)"
+  },
+  {
+    "code": "869009089031",
+    "display": "CRP chronic (observable entity)"
+  },
+  {
+    "code": "731367",
+    "display": "Respiratory rate congenital (observable entity)"
+  },
+  {
+    "code": "011687535",
+    "display": "Pseudomonas aeruginosa acute (organism)"
+  },
+  {
+    "code": "7905740290",
+    "display": "Ear suspected (body structure)"
+  },
+  {
+    "code": "015297238",
+    "display": "Gastroscopy nosocomial (procedure)"
+  },
+  {
+    "code": "0542711",
+    "display": "Serum creatinine nosocomial (observable entity)"
+  },
+  {
+    "code": "586747975",
+    "display": "Clubbing suspected (finding)"
+  },
+  {
+    "code": "320862",
+    "display": "Blood pressure right (observable entity)"
+  },
+  {
+    "code": "855604624",
+    "display": "X-ray chest congenital (procedure)"
+  },
+  {
+    "code": "172845869810",
+    "display": "Ankylosing spondylitis left (disorder)"
+  },
+  {
+    "code": "9620924818",
+    "display": "Streptococcus pneumoniae bilateral (organism)"
+  },
+  {
+    "code": "751110964",
+    "display": "CT thorax chronic (procedure)"
+  },
+  {
+    "code": "3550839",
+    "display": "Skin congenital (body structure)"
+  },
+  {
+    "code": "772330411125",
+    "display": "Bone right (body structure)"
+  },
+  {
+    "code": "1813972536",
+    "display": "Spleen mild (body structure)"
+  },
+  {
+    "code": "112604795507",
+    "display": "Rheumatoid arthritis community-acquired (disorder)"
+  },
+  {
+    "code": "638747637454",
+    "display": "Brain nosocomial (body structure)"
+  },
+  {
+    "code": "26506639983",
+    "display": "Heart rate bilateral (observable entity)"
+  },
+  {
+    "code": "050512",
+    "display": "Chest pain bilateral (finding)"
+  },
+  {
+    "code": "149799",
+    "display": "History of smoking suspected (situation)"
+  },
+  {
+    "code": "0048872265",
+    "display": "Exposure to tuberculosis left (situation)"
+  },
+  {
+    "code": "89820597",
+    "display": "Parkinson disease right (disorder)"
+  },
+  {
+    "code": "42081692",
+    "display": "Allergic to penicillin severe (situation)"
+  },
+  {
+    "code": "225170999",
+    "display": "COPD mild (disorder)"
+  },
+  {
+    "code": "968503741377",
+    "display": "Rotavirus chronic (organism)"
+  },
+  {
+    "code": "43299449918",
+    "display": "Hematocrit nosocomial (observable entity)"
+  },
+  {
+    "code": "63263533776",
+    "display": "Peritoneal dialysis left (procedure)"
+  },
+  {
+    "code": "65228768565",
+    "display": "Clopidogrel chronic (substance)"
+  },
+  {
+    "code": "5183188",
+    "display": "Hematocrit severe (observable entity)"
+  },
+  {
+    "code": "072980",
+    "display": "Brain community-acquired (body structure)"
+  },
+  {
+    "code": "2969858",
+    "display": "Hemoglobin suspected (observable entity)"
+  },
+  {
+    "code": "70876991",
+    "display": "Pseudomonas aeruginosa community-acquired (organism)"
+  },
+  {
+    "code": "50719548898",
+    "display": "Eye acute (body structure)"
+  },
+  {
+    "code": "44547083718",
+    "display": "PCI right (procedure)"
+  },
+  {
+    "code": "77277829",
+    "display": "Clopidogrel right (substance)"
+  },
+  {
+    "code": "030468",
+    "display": "Cholecystectomy chronic (procedure)"
+  },
+  {
+    "code": "15030872901",
+    "display": "eGFR chronic (observable entity)"
+  },
+  {
+    "code": "4719323",
+    "display": "Hemodialysis nosocomial (procedure)"
+  },
+  {
+    "code": "014889908409",
+    "display": "Paracetamol community-acquired (substance)"
+  },
+  {
+    "code": "39270520298",
+    "display": "Back pain left (finding)"
+  },
+  {
+    "code": "403305040713",
+    "display": "Chronic kidney disease (disorder)"
+  },
+  {
+    "code": "677827",
+    "display": "Atrial fibrillation nosocomial (disorder)"
+  },
+  {
+    "code": "92900789840",
+    "display": "Exposure to tuberculosis (situation)"
+  },
+  {
+    "code": "0513944",
+    "display": "Chronic kidney disease chronic (disorder)"
+  },
+  {
+    "code": "23775339",
+    "display": "SARS-CoV-2 (organism)"
+  },
+  {
+    "code": "446925695",
+    "display": "SARS-CoV-2 severe (organism)"
+  },
+  {
+    "code": "1943545",
+    "display": "Acetylsalicylic acid right (substance)"
+  },
+  {
+    "code": "15073773428",
+    "display": "Hemodialysis mild (procedure)"
+  },
+  {
+    "code": "55830726921",
+    "display": "Rotavirus nosocomial (organism)"
+  },
+  {
+    "code": "0684026",
+    "display": "Insulin glargine community-acquired (substance)"
+  },
+  {
+    "code": "723087409",
+    "display": "Appendectomy congenital (procedure)"
+  },
+  {
+    "code": "90925157639",
+    "display": "Family history of diabetes congenital (situation)"
+  },
+  {
+    "code": "122279074904",
+    "display": "Staphylococcus aureus right (organism)"
+  },
+  {
+    "code": "770970128",
+    "display": "Allergic to penicillin mild (situation)"
+  },
+  {
+    "code": "094899901",
+    "display": "Paracetamol mild (substance)"
+  },
+  {
+    "code": "02440467926",
+    "display": "Ankylosing spondylitis severe (disorder)"
+  },
+  {
+    "code": "715511100",
+    "display": "Bronchoscopy severe (procedure)"
+  },
+  {
+    "code": "4804270031",
+    "display": "Asthma mild (disorder)"
+  },
+  {
+    "code": "6803578",
+    "display": "Acute bronchitis chronic (disorder)"
+  },
+  {
+    "code": "7237332095",
+    "display": "Epilepsy suspected (disorder)"
+  },
+  {
+    "code": "514000",
+    "display": "Bronchoscopy suspected (procedure)"
+  },
+  {
+    "code": "7920979246",
+    "display": "Bone right (body structure)"
+  },
+  {
+    "code": "6604369",
+    "display": "Acute bronchitis (disorder)"
+  },
+  {
+    "code": "8227760606",
+    "display": "Family history of diabetes mild (situation)"
+  },
+  {
+    "code": "801827370530",
+    "display": "Rheumatoid arthritis bilateral (disorder)"
+  },
+  {
+    "code": "969214080029",
+    "display": "Rotavirus bilateral (organism)"
+  },
+  {
+    "code": "529181210244",
+    "display": "Hematocrit (observable entity)"
+  },
+  {
+    "code": "65404823",
+    "display": "Metformin bilateral (substance)"
+  },
+  {
+    "code": "3473400453",
+    "display": "MRI brain right (procedure)"
+  },
+  {
+    "code": "21425367",
+    "display": "Abdominal pain severe (finding)"
+  },
+  {
+    "code": "73860179",
+    "display": "Family history of diabetes chronic (situation)"
+  },
+  {
+    "code": "518611",
+    "display": "Pancreas chronic (body structure)"
+  },
+  {
+    "code": "3994116",
+    "display": "Blood pressure mild (observable entity)"
+  },
+  {
+    "code": "057688185",
+    "display": "Fatigue suspected (finding)"
+  },
+  {
+    "code": "62834637747",
+    "display": "Amoxicillin severe (substance)"
+  },
+  {
+    "code": "011106720",
+    "display": "PCI community-acquired (procedure)"
+  },
+  {
+    "code": "978565",
+    "display": "Atorvastatin suspected (substance)"
+  },
+  {
+    "code": "4136846799",
+    "display": "Family history of diabetes mild (situation)"
+  },
+  {
+    "code": "4056310105",
+    "display": "Eye acute (body structure)"
+  },
+  {
+    "code": "287289988408",
+    "display": "Pancreas left (body structure)"
+  },
+  {
+    "code": "988313289",
+    "display": "Liver suspected (body structure)"
+  },
+  {
+    "code": "635088955980",
+    "display": "Exposure to tuberculosis (situation)"
+  },
+  {
+    "code": "7574370",
+    "display": "Kidney chronic (body structure)"
+  },
+  {
+    "code": "835184873671",
+    "display": "Ear acute (body structure)"
+  },
+  {
+    "code": "65924130850",
+    "display": "Amoxicillin left (substance)"
+  },
+  {
+    "code": "23547068",
+    "display": "Streptococcus pneumoniae chronic (organism)"
+  },
+  {
+    "code": "21395953",
+    "display": "Vaccination status unknown bilateral (situation)"
+  },
+  {
+    "code": "315672822",
+    "display": "Pseudomonas aeruginosa right (organism)"
+  },
+  {
+    "code": "082677",
+    "display": "Losartan right (substance)"
+  },
+  {
+    "code": "381190560",
+    "display": "Amlodipine suspected (substance)"
+  },
+  {
+    "code": "16162904250",
+    "display": "Streptococcus pneumoniae mild (organism)"
+  },
+  {
+    "code": "89241498600",
+    "display": "Spleen right (body structure)"
+  },
+  {
+    "code": "546771346830",
+    "display": "Serum potassium bilateral (observable entity)"
+  },
+  {
+    "code": "29195822",
+    "display": "Escherichia coli chronic (organism)"
+  },
+  {
+    "code": "07495011227",
+    "display": "Back pain (finding)"
+  },
+  {
+    "code": "2987667682",
+    "display": "Allergic to penicillin bilateral (situation)"
+  },
+  {
+    "code": "37002074",
+    "display": "Brain chronic (body structure)"
+  },
+  {
+    "code": "5387386393",
+    "display": "Bone community-acquired (body structure)"
+  },
+  {
+    "code": "62978626",
+    "display": "Photophobia mild (finding)"
+  },
+  {
+    "code": "622766096",
+    "display": "Peptic ulcer disease suspected (disorder)"
+  },
+  {
+    "code": "62336949",
+    "display": "Asthma suspected (disorder)"
+  },
+  {
+    "code": "50552999096",
+    "display": "X-ray chest congenital (procedure)"
+  },
+  {
+    "code": "7352259090",
+    "display": "Ibuprofen community-acquired (substance)"
+  },
+  {
+    "code": "3223727",
+    "display": "SARS-CoV-2 bilateral (organism)"
+  },
+  {
+    "code": "81302712181",
+    "display": "Amoxicillin severe (substance)"
+  },
+  {
+    "code": "16779812",
+    "display": "Anxiety disorder chronic (disorder)"
+  },
+  {
+    "code": "0027717",
+    "display": "Otalgia community-acquired (finding)"
+  },
+  {
+    "code": "17155397701",
+    "display": "Blood pressure left (observable entity)"
+  },
+  {
+    "code": "469206",
+    "display": "Stomach mild (body structure)"
+  },
+  {
+    "code": "9525839145",
+    "display": "Losartan nosocomial (substance)"
+  },
+  {
+    "code": "667029971109",
+    "display": "Rash congenital (finding)"
+  },
+  {
+    "code": "19213202754",
+    "display": "Weight loss left (finding)"
+  },
+  {
+    "code": "784256",
+    "display": "Serum potassium left (observable entity)"
+  },
+  {
+    "code": "334979",
+    "display": "X-ray chest left (procedure)"
+  },
+  {
+    "code": "27745775884",
+    "display": "SARS-CoV-2 bilateral (organism)"
+  },
+  {
+    "code": "150574094716",
+    "display": "Serum potassium severe (observable entity)"
+  },
+  {
+    "code": "7943479",
+    "display": "Exposure to tuberculosis community-acquired (situation)"
+  },
+  {
+    "code": "367277",
+    "display": "Hematocrit chronic (observable entity)"
+  },
+  {
+    "code": "90468909943",
+    "display": "Klebsiella pneumoniae acute (organism)"
+  },
+  {
+    "code": "57508329",
+    "display": "CT abdomen acute (procedure)"
+  },
+  {
+    "code": "45118306065",
+    "display": "Vaccination status unknown suspected (situation)"
+  },
+  {
+    "code": "836285545407",
+    "display": "Back pain suspected (finding)"
+  },
+  {
+    "code": "09670467",
+    "display": "Diabetes mellitus bilateral (disorder)"
+  },
+  {
+    "code": "369172322374",
+    "display": "Allergic to penicillin community-acquired (situation)"
+  },
+  {
+    "code": "997250192",
+    "display": "Platelet count right (observable entity)"
+  },
+  {
+    "code": "860603109",
+    "display": "Hematocrit mild (observable entity)"
+  },
+  {
+    "code": "3415128",
+    "display": "Eye mild (body structure)"
+  },
+  {
+    "code": "197693889258",
+    "display": "Fever mild (finding)"
+  },
+  {
+    "code": "3089146334",
+    "display": "MRI brain nosocomial (procedure)"
+  },
+  {
+    "code": "475186",
+    "display": "Hematocrit (observable entity)"
+  },
+  {
+    "code": "8853484",
+    "display": "Heart severe (body structure)"
+  },
+  {
+    "code": "49322475538",
+    "display": "Klebsiella pneumoniae mild (organism)"
+  },
+  {
+    "code": "769138",
+    "display": "Kidney acute (body structure)"
+  },
+  {
+    "code": "139946857791",
+    "display": "Colonoscopy chronic (procedure)"
+  },
+  {
+    "code": "916326612",
+    "display": "History of smoking suspected (situation)"
+  },
+  {
+    "code": "9599148",
+    "display": "Exposure to tuberculosis acute (situation)"
+  },
+  {
+    "code": "506926845638",
+    "display": "Respiratory rate nosocomial (observable entity)"
+  },
+  {
+    "code": "3598834",
+    "display": "History of smoking left (situation)"
+  },
+  {
+    "code": "8438585799",
+    "display": "Staphylococcus aureus chronic (organism)"
+  },
+  {
+    "code": "19621288689",
+    "display": "Insulin glargine chronic (substance)"
+  },
+  {
+    "code": "449860133",
+    "display": "Diabetes mellitus congenital (disorder)"
+  },
+  {
+    "code": "38671948945",
+    "display": "Peritoneal dialysis severe (procedure)"
+  },
+  {
+    "code": "2413584173",
+    "display": "Colonoscopy nosocomial (procedure)"
+  },
+  {
+    "code": "7031224",
+    "display": "Colonoscopy congenital (procedure)"
+  },
+  {
+    "code": "049111261",
+    "display": "Ear right (body structure)"
+  },
+  {
+    "code": "52836838",
+    "display": "Blood pressure acute (observable entity)"
+  },
+  {
+    "code": "67703046",
+    "display": "Allergic to penicillin community-acquired (situation)"
+  },
+  {
+    "code": "560856",
+    "display": "Insulin glargine left (substance)"
+  },
+  {
+    "code": "0583327",
+    "display": "Rotavirus left (organism)"
+  },
+  {
+    "code": "856075",
+    "display": "Parkinson disease chronic (disorder)"
+  },
+  {
+    "code": "317259",
+    "display": "CRP chronic (observable entity)"
+  },
+  {
+    "code": "148704796254",
+    "display": "Liver (body structure)"
+  },
+  {
+    "code": "31168100552",
+    "display": "Rotavirus mild (organism)"
+  },
+  {
+    "code": "37395304",
+    "display": "Ibuprofen mild (substance)"
+  },
+  {
+    "code": "416128",
+    "display": "Stomach severe (body structure)"
+  },
+  {
+    "code": "016008689337",
+    "display": "Eye suspected (body structure)"
+  },
+  {
+    "code": "6235494955",
+    "display": "Allergic to penicillin right (situation)"
+  },
+  {
+    "code": "6991628176",
+    "display": "Pneumonia acute (disorder)"
+  },
+  {
+    "code": "2226026",
+    "display": "eGFR severe (observable entity)"
+  },
+  {
+    "code": "8352244907",
+    "display": "Hypertension nosocomial (disorder)"
+  },
+  {
+    "code": "68843584575",
+    "display": "Rotavirus nosocomial (organism)"
+  },
+  {
+    "code": "92512251",
+    "display": "X-ray chest suspected (procedure)"
+  },
+  {
+    "code": "23562543",
+    "display": "Hypothyroidism (disorder)"
+  },
+  {
+    "code": "879545307490",
+    "display": "History of smoking bilateral (situation)"
+  },
+  {
+    "code": "51218819950",
+    "display": "Family history of diabetes suspected (situation)"
+  },
+  {
+    "code": "1795907976",
+    "display": "Klebsiella pneumoniae mild (organism)"
+  },
+  {
+    "code": "462058",
+    "display": "Dizziness bilateral (finding)"
+  },
+  {
+    "code": "069726",
+    "display": "PCI acute (procedure)"
+  },
+  {
+    "code": "2832106430",
+    "display": "Vaccination status unknown left (situation)"
+  },
+  {
+    "code": "4226468",
+    "display": "Hemodialysis (procedure)"
+  },
+  {
+    "code": "607181",
+    "display": "Chronic kidney disease bilateral (disorder)"
+  },
+  {
+    "code": "495083334979",
+    "display": "Ibuprofen left (substance)"
+  },
+  {
+    "code": "55048255",
+    "display": "Hemodialysis severe (procedure)"
+  },
+  {
+    "code": "281507",
+    "display": "Bone right (body structure)"
+  },
+  {
+    "code": "933628962",
+    "display": "Heart failure community-acquired (disorder)"
+  },
+  {
+    "code": "79923564191",
+    "display": "Paracetamol nosocomial (substance)"
+  },
+  {
+    "code": "418466",
+    "display": "Joint severe (body structure)"
+  },
+  {
+    "code": "808741452266",
+    "display": "Coronary angiography mild (procedure)"
+  },
+  {
+    "code": "050255039",
+    "display": "Metformin acute (substance)"
+  },
+  {
+    "code": "2280230",
+    "display": "Atorvastatin severe (substance)"
+  },
+  {
+    "code": "035267",
+    "display": "Atorvastatin right (substance)"
+  },
+  {
+    "code": "10154696",
+    "display": "Hypothyroidism nosocomial (disorder)"
+  },
+  {
+    "code": "68122222567",
+    "display": "Kidney nosocomial (body structure)"
+  },
+  {
+    "code": "9145576562",
+    "display": "Brain left (body structure)"
+  },
+  {
+    "code": "2556942955",
+    "display": "History of smoking severe (situation)"
+  },
+  {
+    "code": "228888",
+    "display": "Eye suspected (body structure)"
+  },
+  {
+    "code": "8857563",
+    "display": "CRP bilateral (observable entity)"
+  },
+  {
+    "code": "15648121",
+    "display": "Chronic kidney disease bilateral (disorder)"
+  },
+  {
+    "code": "79235475",
+    "display": "Staphylococcus aureus acute (organism)"
+  },
+  {
+    "code": "341703",
+    "display": "Metformin bilateral (substance)"
+  },
+  {
+    "code": "503428850",
+    "display": "Staphylococcus aureus suspected (organism)"
+  },
+  {
+    "code": "08718103",
+    "display": "SARS-CoV-2 right (organism)"
+  },
+  {
+    "code": "783844497950",
+    "display": "Blood pressure community-acquired (observable entity)"
+  },
+  {
+    "code": "018051",
+    "display": "Ibuprofen mild (substance)"
+  },
+  {
+    "code": "726856753802",
+    "display": "Back pain acute (finding)"
+  },
+  {
+    "code": "627634887680",
+    "display": "Diarrhea (finding)"
+  },
+  {
+    "code": "87480082118",
+    "display": "Metformin chronic (substance)"
+  },
+  {
+    "code": "386456",
+    "display": "Multiple sclerosis right (disorder)"
+  },
+  {
+    "code": "0994654984",
+    "display": "Rotavirus congenital (organism)"
+  },
+  {
+    "code": "849233726637",
+    "display": "Amoxicillin congenital (substance)"
+  },
+  {
+    "code": "2871957564",
+    "display": "X-ray chest community-acquired (procedure)"
+  },
+  {
+    "code": "7629174",
+    "display": "Sore throat (finding)"
+  },
+  {
+    "code": "75366679378",
+    "display": "Acetylsalicylic acid chronic (substance)"
+  },
+  {
+    "code": "21456428",
+    "display": "Multiple sclerosis chronic (disorder)"
+  },
+  {
+    "code": "615083",
+    "display": "Vomiting (finding)"
+  },
+  {
+    "code": "056838125",
+    "display": "CABG left (procedure)"
+  },
+  {
+    "code": "35996292618",
+    "display": "Anemia left (disorder)"
+  },
+  {
+    "code": "71585840",
+    "display": "eGFR suspected (observable entity)"
+  },
+  {
+    "code": "2730265",
+    "display": "Streptococcus pneumoniae right (organism)"
+  },
+  {
+    "code": "425614954",
+    "display": "History of smoking suspected (situation)"
+  },
+  {
+    "code": "407736509233",
+    "display": "Staphylococcus aureus community-acquired (organism)"
+  },
+  {
+    "code": "2707489",
+    "display": "CT thorax congenital (procedure)"
+  },
+  {
+    "code": "949272479",
+    "display": "Joint acute (body structure)"
+  },
+  {
+    "code": "878657301704",
+    "display": "Losartan community-acquired (substance)"
+  },
+  {
+    "code": "4013891",
+    "display": "Exposure to tuberculosis acute (situation)"
+  },
+  {
+    "code": "752154789",
+    "display": "Rotavirus severe (organism)"
+  },
+  {
+    "code": "706738081282",
+    "display": "CABG mild (procedure)"
+  },
+  {
+    "code": "56345316",
+    "display": "Omeprazole chronic (substance)"
+  },
+  {
+    "code": "66701401",
+    "display": "Influenza virus congenital (organism)"
+  },
+  {
+    "code": "95736391457",
+    "display": "Laparoscopy mild (procedure)"
+  },
+  {
+    "code": "778598402282",
+    "display": "Cyanosis severe (finding)"
+  },
+  {
+    "code": "214535626853",
+    "display": "Pancreas mild (body structure)"
+  },
+  {
+    "code": "9101109651",
+    "display": "Vaccination status unknown nosocomial (situation)"
+  },
+  {
+    "code": "6173772437",
+    "display": "Exposure to tuberculosis acute (situation)"
+  },
+  {
+    "code": "55380426200",
+    "display": "Clopidogrel mild (substance)"
+  },
+  {
+    "code": "641756",
+    "display": "Eye bilateral (body structure)"
+  },
+  {
+    "code": "384285044426",
+    "display": "Colonoscopy congenital (procedure)"
+  },
+  {
+    "code": "896128",
+    "display": "Kidney congenital (body structure)"
+  },
+  {
+    "code": "826512",
+    "display": "SARS-CoV-2 right (organism)"
+  },
+  {
+    "code": "33904471",
+    "display": "Vaccination status unknown left (situation)"
+  },
+  {
+    "code": "393503412961",
+    "display": "Spleen nosocomial (body structure)"
+  },
+  {
+    "code": "130467",
+    "display": "Ear severe (body structure)"
+  },
+  {
+    "code": "797635585",
+    "display": "CT thorax bilateral (procedure)"
+  },
+  {
+    "code": "446277470209",
+    "display": "Chest pain left (finding)"
+  },
+  {
+    "code": "9361149873",
+    "display": "Eye community-acquired (body structure)"
+  },
+  {
+    "code": "161935",
+    "display": "Klebsiella pneumoniae congenital (organism)"
+  },
+  {
+    "code": "647164408",
+    "display": "Losartan acute (substance)"
+  },
+  {
+    "code": "41169002393",
+    "display": "Hemodialysis community-acquired (procedure)"
+  },
+  {
+    "code": "6187146",
+    "display": "Escherichia coli congenital (organism)"
+  },
+  {
+    "code": "471168",
+    "display": "Psoriasis severe (disorder)"
+  },
+  {
+    "code": "509845",
+    "display": "Appendectomy chronic (procedure)"
+  },
+  {
+    "code": "0229295",
+    "display": "Atorvastatin suspected (substance)"
+  },
+  {
+    "code": "1991146605",
+    "display": "MRI brain community-acquired (procedure)"
+  },
+  {
+    "code": "694140",
+    "display": "Cholecystectomy left (procedure)"
+  },
+  {
+    "code": "2702046674",
+    "display": "Insulin glargine left (substance)"
+  },
+  {
+    "code": "858630",
+    "display": "Escherichia coli right (organism)"
+  },
+  {
+    "code": "09622958643",
+    "display": "Escherichia coli left (organism)"
+  },
+  {
+    "code": "36831773158",
+    "display": "Headache chronic (finding)"
+  },
+  {
+    "code": "96539734",
+    "display": "Hypothyroidism (disorder)"
+  },
+  {
+    "code": "97579831",
+    "display": "Coronary angiography acute (procedure)"
+  },
+  {
+    "code": "672068375406",
+    "display": "Exposure to tuberculosis suspected (situation)"
+  },
+  {
+    "code": "3946435",
+    "display": "Hematuria severe (finding)"
+  },
+  {
+    "code": "5543490788",
+    "display": "Polydipsia chronic (finding)"
+  },
+  {
+    "code": "62108896",
+    "display": "X-ray chest congenital (procedure)"
+  },
+  {
+    "code": "3163119",
+    "display": "Kidney bilateral (body structure)"
+  },
+  {
+    "code": "850568098",
+    "display": "X-ray chest chronic (procedure)"
+  },
+  {
+    "code": "58008917930",
+    "display": "CT thorax chronic (procedure)"
+  },
+  {
+    "code": "823081",
+    "display": "History of smoking (situation)"
+  },
+  {
+    "code": "962608835084",
+    "display": "Blood glucose level nosocomial (observable entity)"
+  },
+  {
+    "code": "7248713",
+    "display": "History of smoking congenital (situation)"
+  },
+  {
+    "code": "7312575",
+    "display": "History of smoking mild (situation)"
+  },
+  {
+    "code": "89825941150",
+    "display": "Weight loss (finding)"
+  },
+  {
+    "code": "38502943",
+    "display": "Atopic dermatitis community-acquired (disorder)"
+  },
+  {
+    "code": "99320319",
+    "display": "Acetylsalicylic acid congenital (substance)"
+  },
+  {
+    "code": "28807027736",
+    "display": "Ear bilateral (body structure)"
+  },
+  {
+    "code": "398266884066",
+    "display": "CT thorax severe (procedure)"
+  },
+  {
+    "code": "08979733225",
+    "display": "Pseudomonas aeruginosa nosocomial (organism)"
+  },
+  {
+    "code": "61433728",
+    "display": "Atopic dermatitis (disorder)"
+  },
+  {
+    "code": "041820",
+    "display": "Escherichia coli right (organism)"
+  },
+  {
+    "code": "0177739",
+    "display": "Gastroenteritis chronic (disorder)"
+  },
+  {
+    "code": "1371492",
+    "display": "CT thorax acute (procedure)"
+  },
+  {
+    "code": "172680931",
+    "display": "Allergic to penicillin bilateral (situation)"
+  },
+  {
+    "code": "996351831176",
+    "display": "CT thorax chronic (procedure)"
+  },
+  {
+    "code": "96373021",
+    "display": "Obesity congenital (disorder)"
+  },
+  {
+    "code": "2107070631",
+    "display": "MRI brain mild (procedure)"
+  },
+  {
+    "code": "85183080",
+    "display": "Lung (body structure)"
+  },
+  {
+    "code": "539623813233",
+    "display": "Brain right (body structure)"
+  },
+  {
+    "code": "783199751",
+    "display": "SARS-CoV-2 mild (organism)"
+  },
+  {
+    "code": "446788936",
+    "display": "Psoriasis mild (disorder)"
+  },
+  {
+    "code": "35097675822",
+    "display": "Insulin glargine acute (substance)"
+  },
+  {
+    "code": "46363434",
+    "display": "X-ray chest chronic (procedure)"
+  },
+  {
+    "code": "3618355606",
+    "display": "Family history of diabetes left (situation)"
+  },
+  {
+    "code": "7736516",
+    "display": "Colonoscopy suspected (procedure)"
+  },
+  {
+    "code": "56678528",
+    "display": "Appendectomy nosocomial (procedure)"
+  },
+  {
+    "code": "960461232",
+    "display": "Fatigue chronic (finding)"
+  },
+  {
+    "code": "113388",
+    "display": "Ankylosing spondylitis congenital (disorder)"
+  },
+  {
+    "code": "713490486",
+    "display": "Serum sodium nosocomial (observable entity)"
+  },
+  {
+    "code": "713846177",
+    "display": "Sore throat (finding)"
+  },
+  {
+    "code": "9666985791",
+    "display": "Coronary angiography bilateral (procedure)"
+  },
+  {
+    "code": "022756899682",
+    "display": "Pancreas suspected (body structure)"
+  },
+  {
+    "code": "1171314010",
+    "display": "Cholecystectomy (procedure)"
+  },
+  {
+    "code": "009404",
+    "display": "SARS-CoV-2 congenital (organism)"
+  },
+  {
+    "code": "2666635225",
+    "display": "Bronchoscopy nosocomial (procedure)"
+  },
+  {
+    "code": "6393052",
+    "display": "Kidney nosocomial (body structure)"
+  },
+  {
+    "code": "3024961731",
+    "display": "Leukocyte count chronic (observable entity)"
+  },
+  {
+    "code": "359111499",
+    "display": "Peritoneal dialysis (procedure)"
+  },
+  {
+    "code": "73780510948",
+    "display": "Bone community-acquired (body structure)"
+  },
+  {
+    "code": "9923264",
+    "display": "Acetylsalicylic acid chronic (substance)"
+  },
+  {
+    "code": "65380862",
+    "display": "Body temperature bilateral (observable entity)"
+  },
+  {
+    "code": "35541713939",
+    "display": "Respiratory rate left (observable entity)"
+  },
+  {
+    "code": "12527189507",
+    "display": "Metformin suspected (substance)"
+  },
+  {
+    "code": "124555421052",
+    "display": "Liver cirrhosis nosocomial (disorder)"
+  },
+  {
+    "code": "9673905",
+    "display": "SARS-CoV-2 suspected (organism)"
+  },
+  {
+    "code": "25281487",
+    "display": "Amlodipine severe (substance)"
+  },
+  {
+    "code": "83765741",
+    "display": "Hemoglobin left (observable entity)"
+  },
+  {
+    "code": "2283147788",
+    "display": "Rotavirus chronic (organism)"
+  },
+  {
+    "code": "1072272",
+    "display": "Paracetamol severe (substance)"
+  },
+  {
+    "code": "84405047",
+    "display": "Proteinuria congenital (finding)"
+  },
+  {
+    "code": "25847622",
+    "display": "Joint nosocomial (body structure)"
+  },
+  {
+    "code": "0992113660",
+    "display": "Hypertension right (disorder)"
+  },
+  {
+    "code": "28401852",
+    "display": "Hypothyroidism nosocomial (disorder)"
+  },
+  {
+    "code": "0788629635",
+    "display": "Peritoneal dialysis right (procedure)"
+  },
+  {
+    "code": "127455223866",
+    "display": "Family history of diabetes community-acquired (situation)"
+  },
+  {
+    "code": "532128814866",
+    "display": "Laparoscopy congenital (procedure)"
+  },
+  {
+    "code": "585362",
+    "display": "Respiratory rate bilateral (observable entity)"
+  },
+  {
+    "code": "966817511",
+    "display": "Kidney chronic (body structure)"
+  },
+  {
+    "code": "4311442906",
+    "display": "eGFR chronic (observable entity)"
+  },
+  {
+    "code": "5794398",
+    "display": "Allergic to penicillin community-acquired (situation)"
+  },
+  {
+    "code": "6213293341",
+    "display": "Hyperthyroidism nosocomial (disorder)"
+  },
+  {
+    "code": "89498039418",
+    "display": "Hemodialysis acute (procedure)"
+  },
+  {
+    "code": "118716119",
+    "display": "Coronary angiography right (procedure)"
+  },
+  {
+    "code": "56620567324",
+    "display": "CABG (procedure)"
+  },
+  {
+    "code": "8327028125",
+    "display": "Pseudomonas aeruginosa severe (organism)"
+  },
+  {
+    "code": "3984784156",
+    "display": "Colonoscopy mild (procedure)"
+  },
+  {
+    "code": "0559479",
+    "display": "eGFR community-acquired (observable entity)"
+  },
+  {
+    "code": "4334349",
+    "display": "CABG suspected (procedure)"
+  },
+  {
+    "code": "7480619",
+    "display": "Skin left (body structure)"
+  },
+  {
+    "code": "035952596",
+    "display": "Exposure to tuberculosis (situation)"
+  },
+  {
+    "code": "250099",
+    "display": "Ear acute (body structure)"
+  },
+  {
+    "code": "986515",
+    "display": "Escherichia coli congenital (organism)"
+  },
+  {
+    "code": "8321294872",
+    "display": "Liver congenital (body structure)"
+  },
+  {
+    "code": "6597696160",
+    "display": "Peritoneal dialysis bilateral (procedure)"
+  },
+  {
+    "code": "551987996841",
+    "display": "Respiratory rate right (observable entity)"
+  },
+  {
+    "code": "42350917999",
+    "display": "History of smoking (situation)"
+  },
+  {
+    "code": "83216182",
+    "display": "Clopidogrel congenital (substance)"
+  },
+  {
+    "code": "430352762954",
+    "display": "Eye (body structure)"
+  },
+  {
+    "code": "46806374456",
+    "display": "Influenza virus mild (organism)"
+  },
+  {
+    "code": "05839931730",
+    "display": "Oxygen saturation left (observable entity)"
+  },
+  {
+    "code": "3764538",
+    "display": "SARS-CoV-2 right (organism)"
+  },
+  {
+    "code": "831429866980",
+    "display": "Eye mild (body structure)"
+  },
+  {
+    "code": "767474",
+    "display": "Allergic to penicillin chronic (situation)"
+  },
+  {
+    "code": "03800979320",
+    "display": "Depressive disorder nosocomial (disorder)"
+  },
+  {
+    "code": "604878",
+    "display": "Diabetes mellitus acute (disorder)"
+  },
+  {
+    "code": "31407271552",
+    "display": "Serum creatinine bilateral (observable entity)"
+  },
+  {
+    "code": "09458747998",
+    "display": "Insulin glargine bilateral (substance)"
+  },
+  {
+    "code": "424796461977",
+    "display": "CRP left (observable entity)"
+  },
+  {
+    "code": "1247820",
+    "display": "Vaccination status unknown nosocomial (situation)"
+  },
+  {
+    "code": "70254694",
+    "display": "CT thorax mild (procedure)"
+  },
+  {
+    "code": "43740808",
+    "display": "Acute myocardial infarction (disorder)"
+  },
+  {
+    "code": "64872430510",
+    "display": "Escherichia coli suspected (organism)"
+  },
+  {
+    "code": "037410940047",
+    "display": "Body temperature congenital (observable entity)"
+  },
+  {
+    "code": "692829499849",
+    "display": "Chronic kidney disease nosocomial (disorder)"
+  },
+  {
+    "code": "209537",
+    "display": "Streptococcus pneumoniae chronic (organism)"
+  },
+  {
+    "code": "12506926941",
+    "display": "Lung nosocomial (body structure)"
+  },
+  {
+    "code": "46888890585",
+    "display": "Skin bilateral (body structure)"
+  },
+  {
+    "code": "716376826395",
+    "display": "Acetylsalicylic acid congenital (substance)"
+  },
+  {
+    "code": "156901061165",
+    "display": "Amoxicillin left (substance)"
+  },
+  {
+    "code": "963189294977",
+    "display": "Serum sodium chronic (observable entity)"
+  },
+  {
+    "code": "302636644",
+    "display": "Amlodipine (substance)"
+  },
+  {
+    "code": "03738632",
+    "display": "Joint left (body structure)"
+  },
+  {
+    "code": "22239581274",
+    "display": "Staphylococcus aureus left (organism)"
+  },
+  {
+    "code": "83441434",
+    "display": "History of smoking right (situation)"
+  },
+  {
+    "code": "78239365681",
+    "display": "Platelet count community-acquired (observable entity)"
+  },
+  {
+    "code": "131933169728",
+    "display": "Amoxicillin acute (substance)"
+  },
+  {
+    "code": "535933896513",
+    "display": "Allergic to penicillin community-acquired (situation)"
+  },
+  {
+    "code": "298715284",
+    "display": "Rash acute (finding)"
+  },
+  {
+    "code": "74444373872",
+    "display": "Acetylsalicylic acid bilateral (substance)"
+  },
+  {
+    "code": "04449801390",
+    "display": "Appendectomy acute (procedure)"
+  },
+  {
+    "code": "3756001",
+    "display": "Cholecystectomy mild (procedure)"
+  },
+  {
+    "code": "1283935",
+    "display": "CT abdomen nosocomial (procedure)"
+  },
+  {
+    "code": "412748181448",
+    "display": "Chest pain congenital (finding)"
+  },
+  {
+    "code": "2728227",
+    "display": "Omeprazole right (substance)"
+  },
+  {
+    "code": "15192480451",
+    "display": "COPD left (disorder)"
+  },
+  {
+    "code": "203071463233",
+    "display": "Back pain severe (finding)"
+  },
+  {
+    "code": "739992193811",
+    "display": "Amlodipine congenital (substance)"
+  },
+  {
+    "code": "228920202",
+    "display": "Vaccination status unknown left (situation)"
+  },
+  {
+    "code": "783170333762",
+    "display": "Losartan community-acquired (substance)"
+  },
+  {
+    "code": "672051",
+    "display": "Influenza virus suspected (organism)"
+  },
+  {
+    "code": "9148108389",
+    "display": "Staphylococcus aureus right (organism)"
+  },
+  {
+    "code": "976795881624",
+    "display": "CABG acute (procedure)"
+  },
+  {
+    "code": "497199244472",
+    "display": "MRI brain nosocomial (procedure)"
+  },
+  {
+    "code": "05558834",
+    "display": "Peritoneal dialysis bilateral (procedure)"
+  },
+  {
+    "code": "658060619",
+    "display": "Fever left (finding)"
+  },
+  {
+    "code": "0393480879",
+    "display": "Atrial fibrillation nosocomial (disorder)"
+  },
+  {
+    "code": "33518752",
+    "display": "MRI brain community-acquired (procedure)"
+  },
+  {
+    "code": "99038654326",
+    "display": "Serum creatinine chronic (observable entity)"
+  },
+  {
+    "code": "0693692",
+    "display": "Skin acute (body structure)"
+  },
+  {
+    "code": "05851710",
+    "display": "Spleen (body structure)"
+  },
+  {
+    "code": "373021385616",
+    "display": "Rotavirus acute (organism)"
+  },
+  {
+    "code": "854643824",
+    "display": "Hemoglobin left (observable entity)"
+  },
+  {
+    "code": "5963055843",
+    "display": "Diabetes mellitus (disorder)"
+  },
+  {
+    "code": "73918624",
+    "display": "Peritoneal dialysis right (procedure)"
+  },
+  {
+    "code": "6424417298",
+    "display": "History of smoking acute (situation)"
+  },
+  {
+    "code": "36469541",
+    "display": "Amlodipine mild (substance)"
+  },
+  {
+    "code": "8079954695",
+    "display": "Vaccination status unknown bilateral (situation)"
+  },
+  {
+    "code": "95781318748",
+    "display": "Serum sodium right (observable entity)"
+  },
+  {
+    "code": "3696408247",
+    "display": "Rotavirus severe (organism)"
+  },
+  {
+    "code": "541726845",
+    "display": "Polyuria suspected (finding)"
+  },
+  {
+    "code": "105492952",
+    "display": "Allergic to penicillin nosocomial (situation)"
+  },
+  {
+    "code": "9902523",
+    "display": "Family history of diabetes mild (situation)"
+  },
+  {
+    "code": "529240",
+    "display": "Amoxicillin severe (substance)"
+  },
+  {
+    "code": "6285158364",
+    "display": "SARS-CoV-2 suspected (organism)"
+  },
+  {
+    "code": "712159561",
+    "display": "Joint pain nosocomial (finding)"
+  },
+  {
+    "code": "2840789949",
+    "display": "Platelet count bilateral (observable entity)"
+  },
+  {
+    "code": "51958307081",
+    "display": "Nausea mild (finding)"
+  },
+  {
+    "code": "3825676",
+    "display": "Appendectomy right (procedure)"
+  },
+  {
+    "code": "294017662959",
+    "display": "Staphylococcus aureus suspected (organism)"
+  },
+  {
+    "code": "854509",
+    "display": "Norovirus severe (organism)"
+  },
+  {
+    "code": "0198477",
+    "display": "Omeprazole left (substance)"
+  },
+  {
+    "code": "651473184",
+    "display": "Bone suspected (body structure)"
+  },
+  {
+    "code": "589384305187",
+    "display": "Pseudomonas aeruginosa acute (organism)"
+  },
+  {
+    "code": "81998962430",
+    "display": "Joint right (body structure)"
+  },
+  {
+    "code": "50501330",
+    "display": "Polyuria suspected (finding)"
+  },
+  {
+    "code": "3826676",
+    "display": "Allergic to penicillin chronic (situation)"
+  },
+  {
+    "code": "0822164",
+    "display": "Hyperthyroidism right (disorder)"
+  },
+  {
+    "code": "97799257241",
+    "display": "Insulin glargine acute (substance)"
+  },
+  {
+    "code": "5272536",
+    "display": "Serum creatinine right (observable entity)"
+  },
+  {
+    "code": "41652225",
+    "display": "Acetylsalicylic acid chronic (substance)"
+  },
+  {
+    "code": "506302127334",
+    "display": "SARS-CoV-2 chronic (organism)"
+  },
+  {
+    "code": "4922120",
+    "display": "Atorvastatin (substance)"
+  },
+  {
+    "code": "402020559792",
+    "display": "Blood pressure community-acquired (observable entity)"
+  },
+  {
+    "code": "92137550",
+    "display": "Atorvastatin congenital (substance)"
+  },
+  {
+    "code": "756609981",
+    "display": "Multiple sclerosis (disorder)"
+  },
+  {
+    "code": "9773635",
+    "display": "Blurred vision congenital (finding)"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I10",
+    "targetSystem": "snomed",
+    "targetCode": "38341003",
+    "relationship": "equivalent"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "E11",
+    "targetSystem": "snomed",
+    "targetCode": "44054006",
+    "relationship": "equivalent"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J06.9",
+    "targetSystem": "snomed",
+    "targetCode": "54398005",
+    "relationship": "equivalent"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "A09",
+    "targetSystem": "snomed",
+    "targetCode": "186156007",
+    "relationship": "equivalent"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "E10",
+    "targetSystem": "snomed",
+    "targetCode": "783170333762",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "O32",
+    "targetSystem": "snomed",
+    "targetCode": "65228768565",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I21",
+    "targetSystem": "snomed",
+    "targetCode": "113226230269",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H18",
+    "targetSystem": "snomed",
+    "targetCode": "8227760606",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "B64",
+    "targetSystem": "snomed",
+    "targetCode": "3994116",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "R81.4",
+    "targetSystem": "snomed",
+    "targetCode": "604878",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S1.5",
+    "targetSystem": "snomed",
+    "targetCode": "61433728",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T95",
+    "targetSystem": "snomed",
+    "targetCode": "518429",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F24.2",
+    "targetSystem": "snomed",
+    "targetCode": "56620567324",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "N50",
+    "targetSystem": "snomed",
+    "targetCode": "49129639",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M54",
+    "targetSystem": "snomed",
+    "targetCode": "50552999096",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "A96.0",
+    "targetSystem": "snomed",
+    "targetCode": "202415",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T35",
+    "targetSystem": "snomed",
+    "targetCode": "12506926941",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z88",
+    "targetSystem": "snomed",
+    "targetCode": "412748181448",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J26",
+    "targetSystem": "snomed",
+    "targetCode": "082677",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D55",
+    "targetSystem": "snomed",
+    "targetCode": "607181",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F94.0",
+    "targetSystem": "snomed",
+    "targetCode": "823041396",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "E87",
+    "targetSystem": "snomed",
+    "targetCode": "265500",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "E41.4",
+    "targetSystem": "snomed",
+    "targetCode": "86436749",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I8.9",
+    "targetSystem": "snomed",
+    "targetCode": "299871704618",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I34.9",
+    "targetSystem": "snomed",
+    "targetCode": "49274986",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "E32",
+    "targetSystem": "snomed",
+    "targetCode": "6213293341",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T12",
+    "targetSystem": "snomed",
+    "targetCode": "6187146",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J92.7",
+    "targetSystem": "snomed",
+    "targetCode": "1795907976",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z20",
+    "targetSystem": "snomed",
+    "targetCode": "95736391457",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q33.4",
+    "targetSystem": "snomed",
+    "targetCode": "619522088845",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "L30",
+    "targetSystem": "snomed",
+    "targetCode": "870517",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J69",
+    "targetSystem": "snomed",
+    "targetCode": "0229295",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "R1",
+    "targetSystem": "snomed",
+    "targetCode": "604878",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M19",
+    "targetSystem": "snomed",
+    "targetCode": "24923462774",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q25",
+    "targetSystem": "snomed",
+    "targetCode": "132843243",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "G39",
+    "targetSystem": "snomed",
+    "targetCode": "6001051",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "C3.5",
+    "targetSystem": "snomed",
+    "targetCode": "09670467",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I86",
+    "targetSystem": "snomed",
+    "targetCode": "7002811",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "O14",
+    "targetSystem": "snomed",
+    "targetCode": "424796461977",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T42",
+    "targetSystem": "snomed",
+    "targetCode": "978565",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M24.5",
+    "targetSystem": "snomed",
+    "targetCode": "996351831176",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D64",
+    "targetSystem": "snomed",
+    "targetCode": "2969858",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I63.0",
+    "targetSystem": "snomed",
+    "targetCode": "93522259953",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D15.1",
+    "targetSystem": "snomed",
+    "targetCode": "8321294872",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D88",
+    "targetSystem": "snomed",
+    "targetCode": "73860179",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S10",
+    "targetSystem": "snomed",
+    "targetCode": "398266884066",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "C4",
+    "targetSystem": "snomed",
+    "targetCode": "2702046674",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D91",
+    "targetSystem": "snomed",
+    "targetCode": "621380897136",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "C7",
+    "targetSystem": "snomed",
+    "targetCode": "12597066",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "L61",
+    "targetSystem": "snomed",
+    "targetCode": "535933896513",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "E47.7",
+    "targetSystem": "snomed",
+    "targetCode": "393503412961",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "B45",
+    "targetSystem": "snomed",
+    "targetCode": "0198477",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D47",
+    "targetSystem": "snomed",
+    "targetCode": "808741452266",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "G81",
+    "targetSystem": "snomed",
+    "targetCode": "1172555149",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H10.0",
+    "targetSystem": "snomed",
+    "targetCode": "808741452266",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J81.3",
+    "targetSystem": "snomed",
+    "targetCode": "250099",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "G90",
+    "targetSystem": "snomed",
+    "targetCode": "31882271115",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D0",
+    "targetSystem": "snomed",
+    "targetCode": "029696",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q41",
+    "targetSystem": "snomed",
+    "targetCode": "31882271115",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F7.6",
+    "targetSystem": "snomed",
+    "targetCode": "6424417298",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "R95",
+    "targetSystem": "snomed",
+    "targetCode": "65404823",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "B62",
+    "targetSystem": "snomed",
+    "targetCode": "627634887680",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "G4",
+    "targetSystem": "snomed",
+    "targetCode": "75366679378",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J18",
+    "targetSystem": "snomed",
+    "targetCode": "823081",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q49.5",
+    "targetSystem": "snomed",
+    "targetCode": "197693889258",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z22",
+    "targetSystem": "snomed",
+    "targetCode": "2871957564",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S2",
+    "targetSystem": "snomed",
+    "targetCode": "287289988408",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q53",
+    "targetSystem": "snomed",
+    "targetCode": "978565",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "G33",
+    "targetSystem": "snomed",
+    "targetCode": "463365",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M98",
+    "targetSystem": "snomed",
+    "targetCode": "21395953",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H38.3",
+    "targetSystem": "snomed",
+    "targetCode": "5272536",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q10",
+    "targetSystem": "snomed",
+    "targetCode": "586747975",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z43",
+    "targetSystem": "snomed",
+    "targetCode": "966817511",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "G70.4",
+    "targetSystem": "snomed",
+    "targetCode": "373021385616",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "B68.1",
+    "targetSystem": "snomed",
+    "targetCode": "2939545525",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J99",
+    "targetSystem": "snomed",
+    "targetCode": "858630",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "N24",
+    "targetSystem": "snomed",
+    "targetCode": "2707489",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "K71",
+    "targetSystem": "snomed",
+    "targetCode": "56678528",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F7",
+    "targetSystem": "snomed",
+    "targetCode": "769138",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J42",
+    "targetSystem": "snomed",
+    "targetCode": "615083",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T55",
+    "targetSystem": "snomed",
+    "targetCode": "356656222499",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H3",
+    "targetSystem": "snomed",
+    "targetCode": "7431981286",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S36",
+    "targetSystem": "snomed",
+    "targetCode": "118716119",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z48",
+    "targetSystem": "snomed",
+    "targetCode": "996351831176",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S79",
+    "targetSystem": "snomed",
+    "targetCode": "977818",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "L11.6",
+    "targetSystem": "snomed",
+    "targetCode": "896128",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I7",
+    "targetSystem": "snomed",
+    "targetCode": "09670467",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F24.1",
+    "targetSystem": "snomed",
+    "targetCode": "386661006",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z62.3",
+    "targetSystem": "snomed",
+    "targetCode": "28401852",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H97.4",
+    "targetSystem": "snomed",
+    "targetCode": "014933",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "K3",
+    "targetSystem": "snomed",
+    "targetCode": "299871704618",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "C82.8",
+    "targetSystem": "snomed",
+    "targetCode": "161935",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H98.1",
+    "targetSystem": "snomed",
+    "targetCode": "26506639983",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S62",
+    "targetSystem": "snomed",
+    "targetCode": "58008917930",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z74.4",
+    "targetSystem": "snomed",
+    "targetCode": "2283147788",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M4",
+    "targetSystem": "snomed",
+    "targetCode": "056838125",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T31",
+    "targetSystem": "snomed",
+    "targetCode": "5259842582",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J59",
+    "targetSystem": "snomed",
+    "targetCode": "03420085507",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z60",
+    "targetSystem": "snomed",
+    "targetCode": "029696",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D60",
+    "targetSystem": "snomed",
+    "targetCode": "79923564191",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M67",
+    "targetSystem": "snomed",
+    "targetCode": "887867821803",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H1",
+    "targetSystem": "snomed",
+    "targetCode": "10154696",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I94",
+    "targetSystem": "snomed",
+    "targetCode": "04449801390",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "K84",
+    "targetSystem": "snomed",
+    "targetCode": "056710723",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F50",
+    "targetSystem": "snomed",
+    "targetCode": "3089146334",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I24",
+    "targetSystem": "snomed",
+    "targetCode": "369172322374",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "J86",
+    "targetSystem": "snomed",
+    "targetCode": "463365",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "N18",
+    "targetSystem": "snomed",
+    "targetCode": "240924171",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M10",
+    "targetSystem": "snomed",
+    "targetCode": "369172322374",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "N23",
+    "targetSystem": "snomed",
+    "targetCode": "049111261",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "O74",
+    "targetSystem": "snomed",
+    "targetCode": "823041396",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T25",
+    "targetSystem": "snomed",
+    "targetCode": "33958058801",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D46.9",
+    "targetSystem": "snomed",
+    "targetCode": "96539734",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F44",
+    "targetSystem": "snomed",
+    "targetCode": "2107070631",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q5",
+    "targetSystem": "snomed",
+    "targetCode": "3825676",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "C22",
+    "targetSystem": "snomed",
+    "targetCode": "83216182",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q35",
+    "targetSystem": "snomed",
+    "targetCode": "627634887680",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z91",
+    "targetSystem": "snomed",
+    "targetCode": "391406582",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "R59",
+    "targetSystem": "snomed",
+    "targetCode": "397894",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "P86.2",
+    "targetSystem": "snomed",
+    "targetCode": "763718523",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "N70",
+    "targetSystem": "snomed",
+    "targetCode": "22239581274",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "B58.5",
+    "targetSystem": "snomed",
+    "targetCode": "6378379",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q91",
+    "targetSystem": "snomed",
+    "targetCode": "9599148",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "K66",
+    "targetSystem": "snomed",
+    "targetCode": "44054006",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S44.4",
+    "targetSystem": "snomed",
+    "targetCode": "45118306065",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q12.5",
+    "targetSystem": "snomed",
+    "targetCode": "74444373872",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "P6.7",
+    "targetSystem": "snomed",
+    "targetCode": "15030872901",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S35",
+    "targetSystem": "snomed",
+    "targetCode": "9361149873",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z1.2",
+    "targetSystem": "snomed",
+    "targetCode": "21395953",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "T56",
+    "targetSystem": "snomed",
+    "targetCode": "156901061165",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M52",
+    "targetSystem": "snomed",
+    "targetCode": "02096985",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "R96",
+    "targetSystem": "snomed",
+    "targetCode": "7031224",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I44",
+    "targetSystem": "snomed",
+    "targetCode": "471168",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "H39",
+    "targetSystem": "snomed",
+    "targetCode": "049111261",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "O83",
+    "targetSystem": "snomed",
+    "targetCode": "1813972536",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z8",
+    "targetSystem": "snomed",
+    "targetCode": "43299449918",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "M85",
+    "targetSystem": "snomed",
+    "targetCode": "86436749",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "N96",
+    "targetSystem": "snomed",
+    "targetCode": "6991628176",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F97.6",
+    "targetSystem": "snomed",
+    "targetCode": "475186",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "A6",
+    "targetSystem": "snomed",
+    "targetCode": "2226026",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "I49",
+    "targetSystem": "snomed",
+    "targetCode": "68122222567",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "K39",
+    "targetSystem": "snomed",
+    "targetCode": "97799257241",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "P17",
+    "targetSystem": "snomed",
+    "targetCode": "772330411125",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "F11",
+    "targetSystem": "snomed",
+    "targetCode": "73860179",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "R35",
+    "targetSystem": "snomed",
+    "targetCode": "014889908409",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Q59",
+    "targetSystem": "snomed",
+    "targetCode": "83441434",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "O60",
+    "targetSystem": "snomed",
+    "targetCode": "585362",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "Z92",
+    "targetSystem": "snomed",
+    "targetCode": "270205",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "D85.0",
+    "targetSystem": "snomed",
+    "targetCode": "424796461977",
+    "relationship": "related"
+  },
+  {
+    "sourceSystem": "icd10",
+    "sourceCode": "S27",
+    "targetSystem": "snomed",
+    "targetCode": "823081",
+    "relationship": "related"
+  }
+]

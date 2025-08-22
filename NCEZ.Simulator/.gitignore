@@ -8,3 +8,5 @@ obj/
 secrets.json
 # Data runtime
 src/NCEZ.Simulator/Data/runtime/
+
+.fake

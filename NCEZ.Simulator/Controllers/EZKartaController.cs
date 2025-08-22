@@ -22,13 +22,14 @@ public sealed class EZKartaController : ControllerBase
     public async Task<ActionResult<IdResponse>> Create([FromBody] PatientCard input, CancellationToken ct)
     {
         // Shallow code validation for sample
-              foreach (var code in input.ActiveProblems ?? Array.Empty<string>())
+                   foreach (var code in input.ActiveProblems ?? Array.Empty<string>())
         {
-            if (!_codes.TryResolveIcd10(code, out _) && !_codes.TryResolveSnomed(code, out _))
-            {
-                               var errors = new Dictionary<string, string[]>
+            var ok = _codes.TryGet("icd10", code, out _) || _codes.TryGet("snomed", code, out _);
+            if (!ok)
+           {
+                var errors = new Dictionary<string, string[]>
                 {
-                    ["activeProblems"] = new[] { $"Unknown code {code}" }
+                    ["activeProblems"] = new[] { $"Unknown code {code} (expected ICD-10 or SNOMED)" }
                 };
                 return UnprocessableEntity(new ValidationProblemDetails(errors)
                 {

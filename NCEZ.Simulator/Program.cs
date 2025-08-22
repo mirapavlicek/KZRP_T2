@@ -31,6 +31,7 @@ builder.Services.AddSingleton<IdGenerator>();
 builder.Services.AddSingleton(new StorageOptions(dataRoot));
 builder.Services.AddSingleton(typeof(IJsonRepository<>), typeof(JsonRepository<>));
 builder.Services.AddSingleton<CodeSetService>();
+builder.Services.AddSingleton<RidService>();
 
 builder.Services.AddMvc(options =>
 {

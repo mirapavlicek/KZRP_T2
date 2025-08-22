@@ -1,0 +1,2202 @@
+[
+  {
+    "code": "718-7",
+    "display": "Hemoglobin [Mass/volume] in Blood"
+  },
+  {
+    "code": "4548-4",
+    "display": "Hematocrit [Volume Fraction] of Blood"
+  },
+  {
+    "code": "80133-7",
+    "display": "Urine protein [Volume Fraction] in Serum"
+  },
+  {
+    "code": "81497-7",
+    "display": "INR [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "46325-0",
+    "display": "LDL [Moles/volume] in Plasma"
+  },
+  {
+    "code": "60858-1",
+    "display": "Urine glucose [Number/volume] in Saliva"
+  },
+  {
+    "code": "95077-1",
+    "display": "Hemoglobin [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "28655-6",
+    "display": "Protein [Number/volume] in Plasma"
+  },
+  {
+    "code": "98728-7",
+    "display": "Cholesterol [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "74595-9",
+    "display": "Albumin [Volume Fraction] in Serum"
+  },
+  {
+    "code": "90082-7",
+    "display": "Urine glucose [Moles/volume] in CSF"
+  },
+  {
+    "code": "14233-8",
+    "display": "Urine ketones [Volume Fraction] in Blood"
+  },
+  {
+    "code": "36146-8",
+    "display": "Chloride [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "3176-8",
+    "display": "Cholesterol [Moles/volume] in Plasma"
+  },
+  {
+    "code": "41668-2",
+    "display": "Magnesium [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "99764-6",
+    "display": "Creatinine [Mass/volume] in Serum"
+  },
+  {
+    "code": "66329-7",
+    "display": "INR [Number/volume] in Serum"
+  },
+  {
+    "code": "23481-2",
+    "display": "Sodium [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "96888-1",
+    "display": "Iron [Mass/volume] in Blood"
+  },
+  {
+    "code": "5881-6",
+    "display": "Albumin [Volume Fraction] in Urine"
+  },
+  {
+    "code": "76297-7",
+    "display": "Potassium [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "27622-9",
+    "display": "Chloride [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "1055-8",
+    "display": "INR [Number/volume] in CSF"
+  },
+  {
+    "code": "59313-2",
+    "display": "Urine protein [Moles/volume] in Saliva"
+  },
+  {
+    "code": "54444-6",
+    "display": "CRP [Number/volume] in Plasma"
+  },
+  {
+    "code": "23966-3",
+    "display": "HbA1c [Mass/volume] in Blood"
+  },
+  {
+    "code": "49444-1",
+    "display": "Vitamin D [Moles/volume] in CSF"
+  },
+  {
+    "code": "85242-8",
+    "display": "Prothrombin time [Moles/volume] in Blood"
+  },
+  {
+    "code": "96278-3",
+    "display": "Calcium [Number/volume] in CSF"
+  },
+  {
+    "code": "86299-6",
+    "display": "Calcium [Moles/volume] in Plasma"
+  },
+  {
+    "code": "77749-7",
+    "display": "Triglycerides [Volume Fraction] in Blood"
+  },
+  {
+    "code": "36448-9",
+    "display": "Albumin [Moles/volume] in CSF"
+  },
+  {
+    "code": "88149-3",
+    "display": "Creatinine [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "84425-9",
+    "display": "Fibrinogen [Number/volume] in Serum"
+  },
+  {
+    "code": "74464-7",
+    "display": "Fibrinogen [Moles/volume] in Saliva"
+  },
+  {
+    "code": "45253-4",
+    "display": "Urea nitrogen [Number/volume] in Serum"
+  },
+  {
+    "code": "59853-7",
+    "display": "Prothrombin time [Mass/volume] in Urine"
+  },
+  {
+    "code": "65559-7",
+    "display": "Creatinine [Mass/volume] in Blood"
+  },
+  {
+    "code": "96934-0",
+    "display": "Chloride [Number/volume] in CSF"
+  },
+  {
+    "code": "63159-6",
+    "display": "Cholesterol [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "90288-9",
+    "display": "Free T3 [Number/volume] in Plasma"
+  },
+  {
+    "code": "28681-8",
+    "display": "Cholesterol [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "4727-8",
+    "display": "Platelets [Number/volume] in Plasma"
+  },
+  {
+    "code": "60894-1",
+    "display": "Vitamin D [Mass/volume] in Blood"
+  },
+  {
+    "code": "69939-0",
+    "display": "Triglycerides [Volume Fraction] in Urine"
+  },
+  {
+    "code": "71308-9",
+    "display": "D-dimer [Number/volume] in Saliva"
+  },
+  {
+    "code": "20153-2",
+    "display": "HbA1c [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "49704-3",
+    "display": "CRP [Mass/volume] in CSF"
+  },
+  {
+    "code": "88544-6",
+    "display": "Phosphate [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "94743-1",
+    "display": "ALT [Volume Fraction] in CSF"
+  },
+  {
+    "code": "72734-9",
+    "display": "Vitamin B12 [Mass/volume] in Blood"
+  },
+  {
+    "code": "35902-4",
+    "display": "Ferritin [Moles/volume] in Urine"
+  },
+  {
+    "code": "52212-4",
+    "display": "BNP [Number/volume] in Saliva"
+  },
+  {
+    "code": "89853-5",
+    "display": "Albumin [Number/volume] in Saliva"
+  },
+  {
+    "code": "59366-4",
+    "display": "Urea nitrogen [Moles/volume] in Urine"
+  },
+  {
+    "code": "75081-9",
+    "display": "Potassium [Volume Fraction] in CSF"
+  },
+  {
+    "code": "76603-9",
+    "display": "Free T3 [Volume Fraction] in Serum"
+  },
+  {
+    "code": "25611-3",
+    "display": "Magnesium [Volume Fraction] in CSF"
+  },
+  {
+    "code": "88666-6",
+    "display": "Folate [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "86727-7",
+    "display": "Bilirubin [Moles/volume] in Plasma"
+  },
+  {
+    "code": "33956-0",
+    "display": "Vitamin D [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "17229-7",
+    "display": "Urine ketones [Number/volume] in Saliva"
+  },
+  {
+    "code": "51783-9",
+    "display": "Leukocytes [Number/volume] in CSF"
+  },
+  {
+    "code": "43379-9",
+    "display": "ALP [Volume Fraction] in Blood"
+  },
+  {
+    "code": "35798-5",
+    "display": "Vitamin D [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "13712-5",
+    "display": "Urine ketones [Moles/volume] in Saliva"
+  },
+  {
+    "code": "68694-7",
+    "display": "Magnesium [Volume Fraction] in Serum"
+  },
+  {
+    "code": "85048-5",
+    "display": "GGT [Mass/volume] in Plasma"
+  },
+  {
+    "code": "43089-5",
+    "display": "Hematocrit [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "93927-8",
+    "display": "Glucose [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "44804-3",
+    "display": "Urine glucose [Number/volume] in Urine"
+  },
+  {
+    "code": "67672-1",
+    "display": "BNP [Mass/volume] in Serum"
+  },
+  {
+    "code": "78087-1",
+    "display": "Troponin [Moles/volume] in Urine"
+  },
+  {
+    "code": "10997-4",
+    "display": "Troponin [Volume Fraction] in Blood"
+  },
+  {
+    "code": "27915-4",
+    "display": "Magnesium [Mass/volume] in Plasma"
+  },
+  {
+    "code": "99912-4",
+    "display": "Chloride [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "16436-1",
+    "display": "Iron [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "97019-8",
+    "display": "Iron [Mass/volume] in Saliva"
+  },
+  {
+    "code": "88519-7",
+    "display": "AST [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "10705-6",
+    "display": "HDL [Mass/volume] in Saliva"
+  },
+  {
+    "code": "65315-7",
+    "display": "Chloride [Mass/volume] in CSF"
+  },
+  {
+    "code": "91742-5",
+    "display": "Urine ketones [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "20959-6",
+    "display": "Chloride [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "39089-1",
+    "display": "Hematocrit [Volume Fraction] in Urine"
+  },
+  {
+    "code": "31862-4",
+    "display": "Potassium [Moles/volume] in Urine"
+  },
+  {
+    "code": "95110-8",
+    "display": "Creatinine [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "31964-7",
+    "display": "Potassium [Volume Fraction] in Urine"
+  },
+  {
+    "code": "88997-4",
+    "display": "AST [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "20457-1",
+    "display": "CRP [Mass/volume] in Urine"
+  },
+  {
+    "code": "27281-9",
+    "display": "AST [Mass/volume] in Blood"
+  },
+  {
+    "code": "59487-6",
+    "display": "Urine specific gravity [Mass/volume] in Urine"
+  },
+  {
+    "code": "54498-6",
+    "display": "Platelets [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "6449-0",
+    "display": "Magnesium [Mass/volume] in CSF"
+  },
+  {
+    "code": "83884-0",
+    "display": "Protein [Number/volume] in CSF"
+  },
+  {
+    "code": "7420-0",
+    "display": "TSH [Mass/volume] in Serum"
+  },
+  {
+    "code": "78079-6",
+    "display": "GGT [Mass/volume] in CSF"
+  },
+  {
+    "code": "85909-6",
+    "display": "ALP [Moles/volume] in Plasma"
+  },
+  {
+    "code": "98333-7",
+    "display": "aPTT [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "78196-9",
+    "display": "Albumin [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "32913-5",
+    "display": "INR [Number/volume] in CSF"
+  },
+  {
+    "code": "93018-9",
+    "display": "ALT [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "22784-8",
+    "display": "Fibrinogen [Number/volume] in Urine"
+  },
+  {
+    "code": "50103-9",
+    "display": "Erythrocytes [Moles/volume] in Serum"
+  },
+  {
+    "code": "24298-9",
+    "display": "Ferritin [Mass/volume] in Blood"
+  },
+  {
+    "code": "4606-7",
+    "display": "Troponin [Volume Fraction] in CSF"
+  },
+  {
+    "code": "41182-6",
+    "display": "Hematocrit [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "22925-2",
+    "display": "Phosphate [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "40138-7",
+    "display": "Phosphate [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "84579-6",
+    "display": "Hematocrit [Moles/volume] in Saliva"
+  },
+  {
+    "code": "1959-0",
+    "display": "Glucose [Moles/volume] in Blood"
+  },
+  {
+    "code": "44874-9",
+    "display": "D-dimer [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "94851-7",
+    "display": "Ferritin [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "69015-8",
+    "display": "LDH [Mass/volume] in Plasma"
+  },
+  {
+    "code": "88251-8",
+    "display": "Erythrocytes [Number/volume] in Saliva"
+  },
+  {
+    "code": "62088-1",
+    "display": "Triglycerides [Mass/volume] in Urine"
+  },
+  {
+    "code": "29705-6",
+    "display": "Hemoglobin [Volume Fraction] in CSF"
+  },
+  {
+    "code": "99506-7",
+    "display": "GGT [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "3141-4",
+    "display": "Chloride [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "41028-4",
+    "display": "Magnesium [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "48961-8",
+    "display": "BNP [Number/volume] in Saliva"
+  },
+  {
+    "code": "35606-5",
+    "display": "Platelets [Number/volume] in Saliva"
+  },
+  {
+    "code": "2516-9",
+    "display": "BNP [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "67938-3",
+    "display": "Iron [Volume Fraction] in Blood"
+  },
+  {
+    "code": "28303-3",
+    "display": "Iron [Mass/volume] in CSF"
+  },
+  {
+    "code": "53287-9",
+    "display": "AST [Number/volume] in Urine"
+  },
+  {
+    "code": "78039-0",
+    "display": "Free T3 [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "30514-4",
+    "display": "Troponin [Number/volume] in Serum"
+  },
+  {
+    "code": "4409-5",
+    "display": "TSH [Volume Fraction] in Blood"
+  },
+  {
+    "code": "27132-4",
+    "display": "AST [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "30883-3",
+    "display": "GGT [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "99882-0",
+    "display": "Urine glucose [Volume Fraction] in Serum"
+  },
+  {
+    "code": "15902-2",
+    "display": "Triglycerides [Mass/volume] in CSF"
+  },
+  {
+    "code": "82089-8",
+    "display": "Potassium [Number/volume] in Saliva"
+  },
+  {
+    "code": "54553-6",
+    "display": "Urine specific gravity [Volume Fraction] in Blood"
+  },
+  {
+    "code": "22240-3",
+    "display": "GGT [Moles/volume] in Blood"
+  },
+  {
+    "code": "31973-5",
+    "display": "Sodium [Number/volume] in CSF"
+  },
+  {
+    "code": "79377-8",
+    "display": "aPTT [Mass/volume] in Saliva"
+  },
+  {
+    "code": "69169-8",
+    "display": "Phosphate [Volume Fraction] in Blood"
+  },
+  {
+    "code": "89547-2",
+    "display": "INR [Mass/volume] in Plasma"
+  },
+  {
+    "code": "46573-4",
+    "display": "LDL [Volume Fraction] in CSF"
+  },
+  {
+    "code": "89434-0",
+    "display": "INR [Mass/volume] in Plasma"
+  },
+  {
+    "code": "81674-1",
+    "display": "Cholesterol [Mass/volume] in Saliva"
+  },
+  {
+    "code": "31797-1",
+    "display": "Hemoglobin [Mass/volume] in Serum"
+  },
+  {
+    "code": "39493-6",
+    "display": "Vitamin B12 [Mass/volume] in Plasma"
+  },
+  {
+    "code": "86816-8",
+    "display": "Triglycerides [Mass/volume] in Plasma"
+  },
+  {
+    "code": "36600-5",
+    "display": "Platelets [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "79942-3",
+    "display": "Albumin [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "77542-7",
+    "display": "Folate [Mass/volume] in Plasma"
+  },
+  {
+    "code": "30641-2",
+    "display": "Urine protein [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "2641-5",
+    "display": "Urine specific gravity [Mass/volume] in Plasma"
+  },
+  {
+    "code": "33789-5",
+    "display": "aPTT [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "33460-9",
+    "display": "BNP [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "56361-9",
+    "display": "GGT [Mass/volume] in CSF"
+  },
+  {
+    "code": "13989-7",
+    "display": "Glucose [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "97437-5",
+    "display": "ALT [Volume Fraction] in CSF"
+  },
+  {
+    "code": "22457-5",
+    "display": "Platelets [Moles/volume] in Blood"
+  },
+  {
+    "code": "90763-9",
+    "display": "Vitamin B12 [Number/volume] in Blood"
+  },
+  {
+    "code": "9517-0",
+    "display": "Leukocytes [Number/volume] in Urine"
+  },
+  {
+    "code": "12430-3",
+    "display": "INR [Volume Fraction] in CSF"
+  },
+  {
+    "code": "10631-0",
+    "display": "ALT [Volume Fraction] in CSF"
+  },
+  {
+    "code": "33439-9",
+    "display": "Glucose [Moles/volume] in Blood"
+  },
+  {
+    "code": "3405-5",
+    "display": "Chloride [Number/volume] in Urine"
+  },
+  {
+    "code": "57249-9",
+    "display": "Troponin [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "88376-6",
+    "display": "Chloride [Mass/volume] in Urine"
+  },
+  {
+    "code": "28903-1",
+    "display": "Triglycerides [Mass/volume] in Saliva"
+  },
+  {
+    "code": "90016-0",
+    "display": "Calcium [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "77898-0",
+    "display": "Sodium [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "92493-0",
+    "display": "Cholesterol [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "86535-1",
+    "display": "Folate [Moles/volume] in Serum"
+  },
+  {
+    "code": "9213-1",
+    "display": "ALT [Number/volume] in Urine"
+  },
+  {
+    "code": "70881-9",
+    "display": "Urine ketones [Volume Fraction] in Blood"
+  },
+  {
+    "code": "82631-0",
+    "display": "Bilirubin [Moles/volume] in Urine"
+  },
+  {
+    "code": "23591-4",
+    "display": "Urine glucose [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "89720-2",
+    "display": "Calcium [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "48718-6",
+    "display": "Urine pH [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "59036-1",
+    "display": "Urea nitrogen [Moles/volume] in Plasma"
+  },
+  {
+    "code": "93402-3",
+    "display": "Phosphate [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "50056-2",
+    "display": "Urine glucose [Number/volume] in Blood"
+  },
+  {
+    "code": "56666-1",
+    "display": "Glucose [Number/volume] in Plasma"
+  },
+  {
+    "code": "65526-8",
+    "display": "Cholesterol [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "78248-7",
+    "display": "Ferritin [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "7403-4",
+    "display": "Urine pH [Mass/volume] in Urine"
+  },
+  {
+    "code": "32734-5",
+    "display": "Erythrocytes [Number/volume] in Serum"
+  },
+  {
+    "code": "71273-8",
+    "display": "Urine protein [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "21004-6",
+    "display": "Urine specific gravity [Volume Fraction] in Urine"
+  },
+  {
+    "code": "96810-9",
+    "display": "TSH [Number/volume] in Serum"
+  },
+  {
+    "code": "19410-3",
+    "display": "Urea nitrogen [Moles/volume] in Plasma"
+  },
+  {
+    "code": "72464-2",
+    "display": "Platelets [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "36397-4",
+    "display": "INR [Moles/volume] in Blood"
+  },
+  {
+    "code": "48207-6",
+    "display": "HbA1c [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "79995-1",
+    "display": "Urine protein [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "50378-1",
+    "display": "INR [Moles/volume] in Blood"
+  },
+  {
+    "code": "98346-8",
+    "display": "Leukocytes [Moles/volume] in Plasma"
+  },
+  {
+    "code": "60162-3",
+    "display": "Folate [Moles/volume] in CSF"
+  },
+  {
+    "code": "28248-0",
+    "display": "Chloride [Number/volume] in CSF"
+  },
+  {
+    "code": "1687-7",
+    "display": "Potassium [Moles/volume] in Plasma"
+  },
+  {
+    "code": "77631-8",
+    "display": "Triglycerides [Moles/volume] in Serum"
+  },
+  {
+    "code": "9454-1",
+    "display": "AST [Mass/volume] in Saliva"
+  },
+  {
+    "code": "76056-4",
+    "display": "Urine protein [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "24169-8",
+    "display": "HDL [Moles/volume] in Plasma"
+  },
+  {
+    "code": "11471-6",
+    "display": "Erythrocytes [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "71657-7",
+    "display": "Platelets [Number/volume] in Blood"
+  },
+  {
+    "code": "78995-8",
+    "display": "ALP [Mass/volume] in CSF"
+  },
+  {
+    "code": "64024-5",
+    "display": "Bilirubin [Moles/volume] in CSF"
+  },
+  {
+    "code": "80747-8",
+    "display": "Troponin [Moles/volume] in Saliva"
+  },
+  {
+    "code": "37379-1",
+    "display": "ALT [Mass/volume] in CSF"
+  },
+  {
+    "code": "21252-7",
+    "display": "Bilirubin [Moles/volume] in Urine"
+  },
+  {
+    "code": "67036-5",
+    "display": "Magnesium [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "25818-4",
+    "display": "Cholesterol [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "9335-4",
+    "display": "Phosphate [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "21974-9",
+    "display": "Free T3 [Number/volume] in Plasma"
+  },
+  {
+    "code": "20235-6",
+    "display": "Sodium [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "36183-4",
+    "display": "GGT [Mass/volume] in Blood"
+  },
+  {
+    "code": "95095-2",
+    "display": "Triglycerides [Mass/volume] in Saliva"
+  },
+  {
+    "code": "71829-4",
+    "display": "Hematocrit [Mass/volume] in Saliva"
+  },
+  {
+    "code": "84848-8",
+    "display": "TSH [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "24111-7",
+    "display": "Triglycerides [Moles/volume] in Saliva"
+  },
+  {
+    "code": "8833-6",
+    "display": "Chloride [Number/volume] in CSF"
+  },
+  {
+    "code": "37457-6",
+    "display": "ALP [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "13729-9",
+    "display": "Bilirubin [Volume Fraction] in Serum"
+  },
+  {
+    "code": "97425-2",
+    "display": "LDL [Number/volume] in Serum"
+  },
+  {
+    "code": "5361-1",
+    "display": "D-dimer [Volume Fraction] in Urine"
+  },
+  {
+    "code": "20485-4",
+    "display": "Urine ketones [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "84195-3",
+    "display": "CRP [Number/volume] in Blood"
+  },
+  {
+    "code": "95946-5",
+    "display": "Leukocytes [Volume Fraction] in Blood"
+  },
+  {
+    "code": "88694-5",
+    "display": "LDL [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "39478-2",
+    "display": "Cholesterol [Number/volume] in Urine"
+  },
+  {
+    "code": "33498-9",
+    "display": "Fibrinogen [Mass/volume] in CSF"
+  },
+  {
+    "code": "52198-4",
+    "display": "Leukocytes [Volume Fraction] in CSF"
+  },
+  {
+    "code": "88765-8",
+    "display": "CRP [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "82596-8",
+    "display": "Ferritin [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "31635-5",
+    "display": "Protein [Mass/volume] in Urine"
+  },
+  {
+    "code": "16643-3",
+    "display": "BNP [Moles/volume] in Urine"
+  },
+  {
+    "code": "30203-9",
+    "display": "Urine ketones [Number/volume] in CSF"
+  },
+  {
+    "code": "27102-8",
+    "display": "GGT [Mass/volume] in CSF"
+  },
+  {
+    "code": "20702-5",
+    "display": "Albumin [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "30868-3",
+    "display": "Vitamin B12 [Mass/volume] in Urine"
+  },
+  {
+    "code": "11433-5",
+    "display": "Glucose [Volume Fraction] in Blood"
+  },
+  {
+    "code": "23912-3",
+    "display": "Troponin [Mass/volume] in Blood"
+  },
+  {
+    "code": "28861-8",
+    "display": "Urine glucose [Moles/volume] in Urine"
+  },
+  {
+    "code": "22640-5",
+    "display": "Triglycerides [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "83592-5",
+    "display": "Urea nitrogen [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "62154-0",
+    "display": "TSH [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "65242-4",
+    "display": "Erythrocytes [Number/volume] in Serum"
+  },
+  {
+    "code": "62660-0",
+    "display": "Bilirubin [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "71198-1",
+    "display": "CRP [Volume Fraction] in Serum"
+  },
+  {
+    "code": "72381-1",
+    "display": "Troponin [Number/volume] in Urine"
+  },
+  {
+    "code": "29049-2",
+    "display": "Erythrocytes [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "76127-4",
+    "display": "Chloride [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "91859-9",
+    "display": "CRP [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "30494-8",
+    "display": "GGT [Number/volume] in Plasma"
+  },
+  {
+    "code": "50663-9",
+    "display": "Ferritin [Moles/volume] in Serum"
+  },
+  {
+    "code": "6124-0",
+    "display": "Phosphate [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "34357-4",
+    "display": "Platelets [Volume Fraction] in Blood"
+  },
+  {
+    "code": "90447-0",
+    "display": "INR [Mass/volume] in Serum"
+  },
+  {
+    "code": "82551-3",
+    "display": "Free T3 [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "50832-4",
+    "display": "ALT [Mass/volume] in Serum"
+  },
+  {
+    "code": "39394-2",
+    "display": "Phosphate [Moles/volume] in Serum"
+  },
+  {
+    "code": "9994-0",
+    "display": "Urine ketones [Volume Fraction] in CSF"
+  },
+  {
+    "code": "29248-6",
+    "display": "Magnesium [Mass/volume] in CSF"
+  },
+  {
+    "code": "28382-5",
+    "display": "Urine ketones [Moles/volume] in Serum"
+  },
+  {
+    "code": "53423-5",
+    "display": "Platelets [Mass/volume] in Blood"
+  },
+  {
+    "code": "73971-0",
+    "display": "TSH [Mass/volume] in Saliva"
+  },
+  {
+    "code": "51596-3",
+    "display": "Free T4 [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "69540-4",
+    "display": "ALT [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "59425-2",
+    "display": "Calcium [Number/volume] in Blood"
+  },
+  {
+    "code": "19321-3",
+    "display": "D-dimer [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "98268-9",
+    "display": "Folate [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "70473-2",
+    "display": "Folate [Mass/volume] in Saliva"
+  },
+  {
+    "code": "96441-2",
+    "display": "Urine ketones [Number/volume] in Blood"
+  },
+  {
+    "code": "15174-4",
+    "display": "GGT [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "34408-1",
+    "display": "Bilirubin [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "43986-0",
+    "display": "Triglycerides [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "71782-5",
+    "display": "Magnesium [Number/volume] in Saliva"
+  },
+  {
+    "code": "44303-2",
+    "display": "Cholesterol [Number/volume] in Serum"
+  },
+  {
+    "code": "77233-9",
+    "display": "Triglycerides [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "9087-8",
+    "display": "LDL [Moles/volume] in Plasma"
+  },
+  {
+    "code": "94299-1",
+    "display": "AST [Moles/volume] in Saliva"
+  },
+  {
+    "code": "3960-1",
+    "display": "ALP [Mass/volume] in Blood"
+  },
+  {
+    "code": "50860-4",
+    "display": "Free T4 [Volume Fraction] in Urine"
+  },
+  {
+    "code": "23126-1",
+    "display": "Bilirubin [Moles/volume] in Serum"
+  },
+  {
+    "code": "81938-8",
+    "display": "Cholesterol [Number/volume] in Serum"
+  },
+  {
+    "code": "26318-8",
+    "display": "Erythrocytes [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "73540-0",
+    "display": "Urine specific gravity [Mass/volume] in CSF"
+  },
+  {
+    "code": "53072-1",
+    "display": "Hemoglobin [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "32269-7",
+    "display": "CRP [Moles/volume] in Serum"
+  },
+  {
+    "code": "32832-8",
+    "display": "HDL [Moles/volume] in Saliva"
+  },
+  {
+    "code": "32114-6",
+    "display": "Urine ketones [Number/volume] in Serum"
+  },
+  {
+    "code": "39101-2",
+    "display": "LDH [Mass/volume] in Urine"
+  },
+  {
+    "code": "86749-3",
+    "display": "Bilirubin [Moles/volume] in Plasma"
+  },
+  {
+    "code": "61834-6",
+    "display": "Albumin [Moles/volume] in Urine"
+  },
+  {
+    "code": "58343-0",
+    "display": "Ferritin [Mass/volume] in CSF"
+  },
+  {
+    "code": "3836-7",
+    "display": "Iron [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "90666-0",
+    "display": "aPTT [Mass/volume] in Blood"
+  },
+  {
+    "code": "31107-0",
+    "display": "D-dimer [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "25152-6",
+    "display": "Protein [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "51667-0",
+    "display": "Bilirubin [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "17467-8",
+    "display": "Platelets [Mass/volume] in Urine"
+  },
+  {
+    "code": "97870-4",
+    "display": "Urine ketones [Number/volume] in Urine"
+  },
+  {
+    "code": "15267-2",
+    "display": "Free T3 [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "28955-2",
+    "display": "BNP [Number/volume] in Blood"
+  },
+  {
+    "code": "73779-9",
+    "display": "Triglycerides [Mass/volume] in Urine"
+  },
+  {
+    "code": "84363-4",
+    "display": "Sodium [Mass/volume] in Serum"
+  },
+  {
+    "code": "76402-8",
+    "display": "Urine glucose [Mass/volume] in Serum"
+  },
+  {
+    "code": "99529-6",
+    "display": "Chloride [Number/volume] in Blood"
+  },
+  {
+    "code": "57710-8",
+    "display": "Creatinine [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "65187-5",
+    "display": "Urine protein [Moles/volume] in Serum"
+  },
+  {
+    "code": "84906-0",
+    "display": "Urine protein [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "91979-1",
+    "display": "Hematocrit [Number/volume] in CSF"
+  },
+  {
+    "code": "65152-8",
+    "display": "Potassium [Volume Fraction] in CSF"
+  },
+  {
+    "code": "11038-3",
+    "display": "D-dimer [Mass/volume] in Urine"
+  },
+  {
+    "code": "36416-8",
+    "display": "Platelets [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "25157-6",
+    "display": "ALT [Moles/volume] in Serum"
+  },
+  {
+    "code": "98918-5",
+    "display": "Urine ketones [Moles/volume] in CSF"
+  },
+  {
+    "code": "86308-1",
+    "display": "Vitamin D [Volume Fraction] in Blood"
+  },
+  {
+    "code": "37321-9",
+    "display": "Magnesium [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "40903-6",
+    "display": "Hemoglobin [Moles/volume] in Plasma"
+  },
+  {
+    "code": "17477-1",
+    "display": "GGT [Volume Fraction] in Blood"
+  },
+  {
+    "code": "19494-4",
+    "display": "D-dimer [Number/volume] in Urine"
+  },
+  {
+    "code": "58073-9",
+    "display": "Urea nitrogen [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "61169-6",
+    "display": "Urine specific gravity [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "96726-6",
+    "display": "Urea nitrogen [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "27209-1",
+    "display": "Platelets [Mass/volume] in Saliva"
+  },
+  {
+    "code": "1642-0",
+    "display": "Calcium [Moles/volume] in Plasma"
+  },
+  {
+    "code": "55557-7",
+    "display": "Potassium [Number/volume] in Plasma"
+  },
+  {
+    "code": "97379-9",
+    "display": "Prothrombin time [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "15614-4",
+    "display": "TSH [Volume Fraction] in Serum"
+  },
+  {
+    "code": "3311-6",
+    "display": "LDL [Mass/volume] in Serum"
+  },
+  {
+    "code": "85537-0",
+    "display": "Iron [Volume Fraction] in Serum"
+  },
+  {
+    "code": "47131-8",
+    "display": "Urine pH [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "88716-7",
+    "display": "BNP [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "78635-2",
+    "display": "Urea nitrogen [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "24232-4",
+    "display": "Potassium [Moles/volume] in Serum"
+  },
+  {
+    "code": "54863-8",
+    "display": "Creatinine [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "60982-4",
+    "display": "TSH [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "11407-1",
+    "display": "Ferritin [Volume Fraction] in CSF"
+  },
+  {
+    "code": "20615-1",
+    "display": "D-dimer [Moles/volume] in Blood"
+  },
+  {
+    "code": "39333-4",
+    "display": "Platelets [Volume Fraction] in Serum"
+  },
+  {
+    "code": "29482-6",
+    "display": "Albumin [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "10695-8",
+    "display": "Iron [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "53921-2",
+    "display": "Hemoglobin [Number/volume] in Serum"
+  },
+  {
+    "code": "28016-9",
+    "display": "Free T4 [Mass/volume] in CSF"
+  },
+  {
+    "code": "4092-1",
+    "display": "CRP [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "35205-8",
+    "display": "Bilirubin [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "29702-0",
+    "display": "Urine glucose [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "99888-6",
+    "display": "Iron [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "8017-9",
+    "display": "Troponin [Volume Fraction] in Urine"
+  },
+  {
+    "code": "21234-7",
+    "display": "ALT [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "39451-8",
+    "display": "Glucose [Number/volume] in Plasma"
+  },
+  {
+    "code": "87665-3",
+    "display": "Sodium [Number/volume] in Saliva"
+  },
+  {
+    "code": "84492-7",
+    "display": "Free T4 [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "88076-6",
+    "display": "D-dimer [Number/volume] in Blood"
+  },
+  {
+    "code": "38697-0",
+    "display": "Urea nitrogen [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "44980-0",
+    "display": "Creatinine [Mass/volume] in Urine"
+  },
+  {
+    "code": "42458-2",
+    "display": "Albumin [Mass/volume] in Saliva"
+  },
+  {
+    "code": "48514-2",
+    "display": "Calcium [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "63280-4",
+    "display": "Calcium [Moles/volume] in Urine"
+  },
+  {
+    "code": "83352-7",
+    "display": "Albumin [Mass/volume] in CSF"
+  },
+  {
+    "code": "51339-0",
+    "display": "Potassium [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "41329-5",
+    "display": "Ferritin [Moles/volume] in CSF"
+  },
+  {
+    "code": "31255-5",
+    "display": "LDH [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "1737-5",
+    "display": "Triglycerides [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "67697-1",
+    "display": "D-dimer [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "49297-4",
+    "display": "Phosphate [Number/volume] in Saliva"
+  },
+  {
+    "code": "59379-8",
+    "display": "Phosphate [Number/volume] in CSF"
+  },
+  {
+    "code": "30981-6",
+    "display": "Platelets [Mass/volume] in Blood"
+  },
+  {
+    "code": "87254-3",
+    "display": "AST [Mass/volume] in Urine"
+  },
+  {
+    "code": "37189-2",
+    "display": "HbA1c [Volume Fraction] in Blood"
+  },
+  {
+    "code": "18801-1",
+    "display": "Hematocrit [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "67672-7",
+    "display": "Hematocrit [Moles/volume] in Urine"
+  },
+  {
+    "code": "55150-7",
+    "display": "Potassium [Moles/volume] in Saliva"
+  },
+  {
+    "code": "27444-3",
+    "display": "Hematocrit [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "45544-0",
+    "display": "Urine pH [Number/volume] in Serum"
+  },
+  {
+    "code": "56021-4",
+    "display": "Hemoglobin [Volume Fraction] in Serum"
+  },
+  {
+    "code": "14669-7",
+    "display": "Urine glucose [Number/volume] in Urine"
+  },
+  {
+    "code": "68215-1",
+    "display": "Sodium [Moles/volume] in Saliva"
+  },
+  {
+    "code": "41538-8",
+    "display": "Chloride [Mass/volume] in Serum"
+  },
+  {
+    "code": "84263-2",
+    "display": "Albumin [Moles/volume] in Saliva"
+  },
+  {
+    "code": "4254-3",
+    "display": "aPTT [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "62545-0",
+    "display": "Urine protein [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "78662-0",
+    "display": "LDL [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "22101-8",
+    "display": "Prothrombin time [Volume Fraction] in CSF"
+  },
+  {
+    "code": "2832-8",
+    "display": "Triglycerides [Volume Fraction] in Urine"
+  },
+  {
+    "code": "39287-0",
+    "display": "Vitamin B12 [Moles/volume] in Plasma"
+  },
+  {
+    "code": "57936-4",
+    "display": "Chloride [Moles/volume] in Blood"
+  },
+  {
+    "code": "75305-5",
+    "display": "Potassium [Volume Fraction] in Blood"
+  },
+  {
+    "code": "19735-6",
+    "display": "Urine specific gravity [Mass/volume] in Saliva"
+  },
+  {
+    "code": "37965-0",
+    "display": "Urine ketones [Number/volume] in Blood"
+  },
+  {
+    "code": "77303-9",
+    "display": "Troponin [Number/volume] in Blood"
+  },
+  {
+    "code": "39067-6",
+    "display": "INR [Volume Fraction] in Blood"
+  },
+  {
+    "code": "96635-2",
+    "display": "Protein [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "76948-5",
+    "display": "Protein [Volume Fraction] in Blood"
+  },
+  {
+    "code": "27302-0",
+    "display": "Prothrombin time [Number/volume] in Urine"
+  },
+  {
+    "code": "71996-9",
+    "display": "Free T4 [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "21517-0",
+    "display": "HDL [Number/volume] in Saliva"
+  },
+  {
+    "code": "86368-6",
+    "display": "Platelets [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "54337-3",
+    "display": "Prothrombin time [Number/volume] in Serum"
+  },
+  {
+    "code": "32407-0",
+    "display": "Urea nitrogen [Volume Fraction] in CSF"
+  },
+  {
+    "code": "72297-6",
+    "display": "Phosphate [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "97082-0",
+    "display": "Urine protein [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "80962-8",
+    "display": "HbA1c [Mass/volume] in Blood"
+  },
+  {
+    "code": "77212-9",
+    "display": "Hemoglobin [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "64591-4",
+    "display": "AST [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "76366-5",
+    "display": "Cholesterol [Mass/volume] in Plasma"
+  },
+  {
+    "code": "72191-7",
+    "display": "Erythrocytes [Mass/volume] in Urine"
+  },
+  {
+    "code": "63498-2",
+    "display": "Hematocrit [Moles/volume] in Serum"
+  },
+  {
+    "code": "33038-7",
+    "display": "Hematocrit [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "90740-6",
+    "display": "Calcium [Volume Fraction] in Urine"
+  },
+  {
+    "code": "4090-4",
+    "display": "ALP [Number/volume] in Urine"
+  },
+  {
+    "code": "81403-9",
+    "display": "GGT [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "41710-9",
+    "display": "Erythrocytes [Volume Fraction] in Urine"
+  },
+  {
+    "code": "28262-0",
+    "display": "Protein [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "81174-3",
+    "display": "INR [Number/volume] in Blood"
+  },
+  {
+    "code": "27221-3",
+    "display": "aPTT [Number/volume] in Urine"
+  },
+  {
+    "code": "20020-0",
+    "display": "HbA1c [Volume Fraction] in Urine"
+  },
+  {
+    "code": "70951-1",
+    "display": "Vitamin B12 [Mass/volume] in Plasma"
+  },
+  {
+    "code": "85477-9",
+    "display": "Leukocytes [Number/volume] in Saliva"
+  },
+  {
+    "code": "16625-4",
+    "display": "Creatinine [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "78135-5",
+    "display": "Creatinine [Volume Fraction] in CSF"
+  },
+  {
+    "code": "22397-7",
+    "display": "TSH [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "26497-3",
+    "display": "ALP [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "61532-9",
+    "display": "Vitamin B12 [Volume Fraction] in Urine"
+  },
+  {
+    "code": "84358-0",
+    "display": "CRP [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "7036-3",
+    "display": "Urine ketones [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "17093-1",
+    "display": "Bilirubin [Number/volume] in Plasma"
+  },
+  {
+    "code": "11290-1",
+    "display": "Fibrinogen [Mass/volume] in Serum"
+  },
+  {
+    "code": "28815-2",
+    "display": "Potassium [Mass/volume] in Plasma"
+  },
+  {
+    "code": "82447-4",
+    "display": "LDL [Moles/volume] in Blood"
+  },
+  {
+    "code": "77359-0",
+    "display": "Vitamin B12 [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "82400-8",
+    "display": "D-dimer [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "58325-4",
+    "display": "BNP [Number/volume] in Blood"
+  },
+  {
+    "code": "86276-2",
+    "display": "Magnesium [Number/volume] in Plasma"
+  },
+  {
+    "code": "10484-1",
+    "display": "Free T4 [Number/volume] in Blood"
+  },
+  {
+    "code": "82529-9",
+    "display": "aPTT [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "61172-2",
+    "display": "Triglycerides [Enzymatic activity/volume] in Serum"
+  },
+  {
+    "code": "90146-2",
+    "display": "AST [Number/volume] in Blood"
+  },
+  {
+    "code": "73484-0",
+    "display": "Urine pH [Number/volume] in CSF"
+  },
+  {
+    "code": "24826-2",
+    "display": "HDL [Mass/volume] in Serum"
+  },
+  {
+    "code": "6933-7",
+    "display": "AST [Number/volume] in Serum"
+  },
+  {
+    "code": "55322-4",
+    "display": "Hematocrit [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "21901-4",
+    "display": "Iron [Moles/volume] in Urine"
+  },
+  {
+    "code": "18685-8",
+    "display": "CRP [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "95637-8",
+    "display": "Ferritin [Mass/volume] in Urine"
+  },
+  {
+    "code": "8014-8",
+    "display": "Calcium [Moles/volume] in Plasma"
+  },
+  {
+    "code": "52312-7",
+    "display": "Iron [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "84019-3",
+    "display": "Fibrinogen [Number/volume] in Serum"
+  },
+  {
+    "code": "81620-8",
+    "display": "Phosphate [Volume Fraction] in Serum"
+  },
+  {
+    "code": "20351-4",
+    "display": "Troponin [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "82218-7",
+    "display": "Leukocytes [Moles/volume] in Serum"
+  },
+  {
+    "code": "74377-0",
+    "display": "Fibrinogen [Number/volume] in CSF"
+  },
+  {
+    "code": "92390-8",
+    "display": "ALP [Number/volume] in Blood"
+  },
+  {
+    "code": "49537-2",
+    "display": "Creatinine [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "32574-6",
+    "display": "Hemoglobin [Mass/volume] in Blood"
+  },
+  {
+    "code": "6446-8",
+    "display": "HbA1c [Number/volume] in Plasma"
+  },
+  {
+    "code": "50105-2",
+    "display": "Magnesium [Mass/volume] in Urine"
+  },
+  {
+    "code": "45397-6",
+    "display": "AST [Number/volume] in Urine"
+  },
+  {
+    "code": "43267-3",
+    "display": "Prothrombin time [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "74681-2",
+    "display": "Albumin [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "41163-1",
+    "display": "Sodium [Moles/volume] in Saliva"
+  },
+  {
+    "code": "54429-7",
+    "display": "Fibrinogen [Moles/volume] in CSF"
+  },
+  {
+    "code": "16121-8",
+    "display": "Free T4 [Mass/volume] in CSF"
+  },
+  {
+    "code": "93756-8",
+    "display": "ALT [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "12097-3",
+    "display": "Fibrinogen [Mass/volume] in Urine"
+  },
+  {
+    "code": "90761-5",
+    "display": "Ferritin [Moles/volume] in Serum"
+  },
+  {
+    "code": "29700-8",
+    "display": "Prothrombin time [Number/volume] in Serum"
+  },
+  {
+    "code": "62999-2",
+    "display": "Urine glucose [Mass/volume] in CSF"
+  },
+  {
+    "code": "59624-2",
+    "display": "AST [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "92113-0",
+    "display": "Urea nitrogen [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "88547-1",
+    "display": "Iron [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "45333-7",
+    "display": "Vitamin D [Volume Fraction] in CSF"
+  },
+  {
+    "code": "76871-6",
+    "display": "Vitamin D [Mass/volume] in CSF"
+  },
+  {
+    "code": "49588-5",
+    "display": "Chloride [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "48626-4",
+    "display": "Leukocytes [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "62679-7",
+    "display": "Vitamin B12 [Mass/volume] in Urine"
+  },
+  {
+    "code": "84985-6",
+    "display": "Cholesterol [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "98401-4",
+    "display": "Albumin [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "30929-2",
+    "display": "CRP [Number/volume] in Plasma"
+  },
+  {
+    "code": "95663-0",
+    "display": "Magnesium [Mass/volume] in Serum"
+  },
+  {
+    "code": "7735-1",
+    "display": "HDL [Moles/volume] in Serum"
+  },
+  {
+    "code": "39827-2",
+    "display": "CRP [Volume Fraction] in CSF"
+  },
+  {
+    "code": "31472-3",
+    "display": "Calcium [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "41877-6",
+    "display": "Glucose [Number/volume] in CSF"
+  },
+  {
+    "code": "57049-6",
+    "display": "Free T3 [Number/volume] in Synovial fluid"
+  },
+  {
+    "code": "90317-8",
+    "display": "HbA1c [Moles/volume] in Synovial fluid"
+  },
+  {
+    "code": "72053-0",
+    "display": "Urine glucose [Volume Fraction] in Plasma"
+  },
+  {
+    "code": "62856-6",
+    "display": "Urine protein [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "56054-9",
+    "display": "HbA1c [Number/volume] in Plasma"
+  },
+  {
+    "code": "90945-5",
+    "display": "CRP [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "27631-9",
+    "display": "Urine glucose [Mass/volume] in CSF"
+  },
+  {
+    "code": "35916-1",
+    "display": "GGT [Moles/volume] in Saliva"
+  },
+  {
+    "code": "7056-0",
+    "display": "Folate [Moles/volume] in Urine"
+  },
+  {
+    "code": "94192-9",
+    "display": "Fibrinogen [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "67294-1",
+    "display": "Bilirubin [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "85672-8",
+    "display": "Leukocytes [Number/volume] in Blood"
+  },
+  {
+    "code": "54565-3",
+    "display": "Folate [Mass/volume] in Serum"
+  },
+  {
+    "code": "6975-6",
+    "display": "Urea nitrogen [Volume Fraction] in Urine"
+  },
+  {
+    "code": "22334-3",
+    "display": "AST [Mass/volume] in CSF"
+  },
+  {
+    "code": "71930-6",
+    "display": "Ferritin [Number/volume] in Plasma"
+  },
+  {
+    "code": "13427-0",
+    "display": "Urine protein [Enzymatic activity/volume] in Plasma"
+  },
+  {
+    "code": "84348-0",
+    "display": "TSH [Volume Fraction] in Urine"
+  },
+  {
+    "code": "15780-9",
+    "display": "Troponin [Number/volume] in Plasma"
+  },
+  {
+    "code": "6316-7",
+    "display": "Magnesium [Mass/volume] in CSF"
+  },
+  {
+    "code": "53374-6",
+    "display": "TSH [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "55469-8",
+    "display": "Vitamin B12 [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "64590-1",
+    "display": "Magnesium [Mass/volume] in CSF"
+  },
+  {
+    "code": "1466-5",
+    "display": "ALP [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "72229-2",
+    "display": "LDL [Volume Fraction] in Urine"
+  },
+  {
+    "code": "34275-2",
+    "display": "Albumin [Moles/volume] in CSF"
+  },
+  {
+    "code": "27067-6",
+    "display": "Phosphate [Moles/volume] in Urine"
+  },
+  {
+    "code": "65114-9",
+    "display": "Urine pH [Enzymatic activity/volume] in CSF"
+  },
+  {
+    "code": "67986-5",
+    "display": "GGT [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "65099-4",
+    "display": "Free T3 [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "70925-7",
+    "display": "Fibrinogen [Mass/volume] in Saliva"
+  },
+  {
+    "code": "37164-2",
+    "display": "D-dimer [Volume Fraction] in Serum"
+  },
+  {
+    "code": "70317-8",
+    "display": "Platelets [Moles/volume] in Saliva"
+  },
+  {
+    "code": "36634-5",
+    "display": "Sodium [Enzymatic activity/volume] in Saliva"
+  },
+  {
+    "code": "87502-5",
+    "display": "Urine ketones [Volume Fraction] in Serum"
+  },
+  {
+    "code": "60648-3",
+    "display": "Urea nitrogen [Moles/volume] in Serum"
+  },
+  {
+    "code": "78397-7",
+    "display": "Prothrombin time [Number/volume] in Plasma"
+  },
+  {
+    "code": "45331-0",
+    "display": "ALT [Mass/volume] in Plasma"
+  },
+  {
+    "code": "91678-0",
+    "display": "ALT [Number/volume] in CSF"
+  },
+  {
+    "code": "41488-7",
+    "display": "Protein [Number/volume] in Saliva"
+  },
+  {
+    "code": "71171-7",
+    "display": "Vitamin B12 [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "68925-0",
+    "display": "Protein [Mass/volume] in Blood"
+  },
+  {
+    "code": "68171-9",
+    "display": "Ferritin [Moles/volume] in Urine"
+  },
+  {
+    "code": "58706-4",
+    "display": "LDL [Mass/volume] in CSF"
+  },
+  {
+    "code": "4072-6",
+    "display": "Triglycerides [Mass/volume] in Blood"
+  },
+  {
+    "code": "8397-8",
+    "display": "INR [Mass/volume] in Synovial fluid"
+  },
+  {
+    "code": "16424-3",
+    "display": "LDH [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "19275-7",
+    "display": "Urine specific gravity [Moles/volume] in Saliva"
+  },
+  {
+    "code": "38438-5",
+    "display": "ALP [Volume Fraction] in Urine"
+  },
+  {
+    "code": "41291-6",
+    "display": "Platelets [Number/volume] in Urine"
+  },
+  {
+    "code": "57633-8",
+    "display": "Chloride [Number/volume] in Plasma"
+  },
+  {
+    "code": "40061-7",
+    "display": "Protein [Number/volume] in Serum"
+  },
+  {
+    "code": "75291-3",
+    "display": "aPTT [Enzymatic activity/volume] in Blood"
+  },
+  {
+    "code": "99491-2",
+    "display": "TSH [Moles/volume] in Blood"
+  },
+  {
+    "code": "16889-7",
+    "display": "HDL [Enzymatic activity/volume] in Urine"
+  },
+  {
+    "code": "62222-6",
+    "display": "HbA1c [Moles/volume] in Blood"
+  },
+  {
+    "code": "31354-0",
+    "display": "Hematocrit [Mass/volume] in Urine"
+  },
+  {
+    "code": "58961-6",
+    "display": "CRP [Mass/volume] in Urine"
+  },
+  {
+    "code": "96794-0",
+    "display": "D-dimer [Volume Fraction] in Synovial fluid"
+  },
+  {
+    "code": "69484-2",
+    "display": "Erythrocytes [Volume Fraction] in Saliva"
+  },
+  {
+    "code": "59091-7",
+    "display": "Albumin [Number/volume] in CSF"
+  },
+  {
+    "code": "81632-4",
+    "display": "Phosphate [Enzymatic activity/volume] in Synovial fluid"
+  },
+  {
+    "code": "73331-0",
+    "display": "D-dimer [Volume Fraction] in Serum"
+  },
+  {
+    "code": "8543-3",
+    "display": "Protein [Volume Fraction] in Urine"
+  },
+  {
+    "code": "66776-6",
+    "display": "ALP [Mass/volume] in CSF"
+  },
+  {
+    "code": "54301-2",
+    "display": "Platelets [Mass/volume] in Saliva"
+  },
+  {
+    "code": "27071-2",
+    "display": "Bilirubin [Number/volume] in CSF"
+  },
+  {
+    "code": "80945-5",
+    "display": "Protein [Volume Fraction] in Synovial fluid"
+  }
+]

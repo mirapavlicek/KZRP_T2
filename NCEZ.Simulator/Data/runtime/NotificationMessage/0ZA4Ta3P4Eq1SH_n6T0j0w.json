@@ -1,0 +1,11 @@
+{
+  "type": "string",
+  "topic": "string",
+  "correlationId": "string",
+  "payload": "string",
+  "status": "string",
+  "occurredAt": "2025-08-21T18:10:25.902+00:00",
+  "id": "0ZA4Ta3P4Eq1SH_n6T0j0w",
+  "createdAt": "2025-08-21T18:10:27.919026+00:00",
+  "modifiedAt": "2025-08-21T18:10:25.902+00:00"
+}
