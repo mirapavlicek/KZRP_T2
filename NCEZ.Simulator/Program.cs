@@ -13,7 +13,11 @@ var dataRoot = Path.Combine(builder.Environment.ContentRootPath, builder.Configu
 Directory.CreateDirectory(dataRoot);
 
 // Services
-builder.Services.AddControllers()
+builder.Services.AddControllers(options =>
+{
+    // jednotné vracení 422 z ValidateModelFilter
+    options.Filters.Add<ValidateModelFilter>();
+})
     .ConfigureApiBehaviorOptions(o => { o.SuppressModelStateInvalidFilter = true; });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -32,11 +36,7 @@ builder.Services.AddSingleton(new StorageOptions(dataRoot));
 builder.Services.AddSingleton(typeof(IJsonRepository<>), typeof(JsonRepository<>));
 builder.Services.AddSingleton<CodeSetService>();
 builder.Services.AddSingleton<RidService>();
-
-builder.Services.AddMvc(options =>
-{
-    options.Filters.Add<ValidateModelFilter>();
-});
+builder.Services.AddSingleton<HdrValidator>();
 
 var app = builder.Build();
 
@@ -46,6 +46,10 @@ app.UseExceptionHandler(errorApp =>
     errorApp.Run(async context =>
     {
         var feature = context.Features.Get<IExceptionHandlerPathFeature>();
+
+        // Mapování validační chyby HDR na 422
+    
+
         var problem = new ProblemDetails
         {
             Type = "https://http.dev/errors/internal-error",
@@ -73,7 +77,35 @@ app.MapControllers();
 app.MapGet("/health", () => Results.Ok(new { status = "ok", time = DateTimeOffset.UtcNow }))
    .WithTags("System");
 
+app.MapPost("/api/codes/{system}", (string system, UpsertCodeDto dto, CodeSetService codes) =>
+{
+    if (string.IsNullOrWhiteSpace(dto.Code) || string.IsNullOrWhiteSpace(dto.Display))
+        return Results.BadRequest("Missing code or display.");
+
+    var ok = codes.TryAddOrUpdate(system, dto.Code, dto.Display, dto.Version, dto.Lang, dto.Synonyms, dto.Parents, dto.Active, persist: true);
+    if (!ok) return Results.StatusCode(500);
+    var ver = string.IsNullOrWhiteSpace(dto.Version) ? "default" : dto.Version;
+    return Results.Created($"/api/codes/{system}/{dto.Code}?version={ver}", dto);
+}).WithTags("Codes");
+
+// GET: načte konkrétní kód (volitelně ?version=…)
+app.MapGet("/api/codes/{system}/{code}", (string system, string code, string? version, CodeSetService codes) =>
+{
+    return codes.TryGet(system, code, out var e, version) ? Results.Ok(e) : Results.NotFound();
+}).WithTags("Codes");
+
+
 app.Run();
+
+public sealed record UpsertCodeDto(
+    string Code,
+    string Display,
+    string? Version,
+    string? Lang,
+    string[]? Synonyms,
+    string[]? Parents,
+    bool? Active
+);
 
 namespace NCEZ.Simulator.Services
 {

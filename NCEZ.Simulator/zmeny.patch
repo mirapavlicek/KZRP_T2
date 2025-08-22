@@ -1,98 +1,33 @@
-diff --git a/src/NCEZ.Simulator/Services/CodeSetService.cs b/src/NCEZ.Simulator/Services/CodeSetService.cs
---- a/src/NCEZ.Simulator/Services/CodeSetService.cs
-+++ b/src/NCEZ.Simulator/Services/CodeSetService.cs
-@@
--                var list = ReadEntries(f, sys, ver);
--                if (!_versions.TryGetValue(sys, out var verDict))
--                {
--                    verDict = new(StringComparer.OrdinalIgnoreCase);
--                    _versions[sys] = verDict;
--                }
--                var versionKey = ver ?? "default";
--                verDict[versionKey] = list.ToDictionary(e => e.Code, e => e, StringComparer.OrdinalIgnoreCase);
-+                var list = ReadEntries(f, sys, ver);
-+                if (!_versions.TryGetValue(sys, out var verDict))
-+                {
-+                    verDict = new(StringComparer.OrdinalIgnoreCase);
-+                    _versions[sys] = verDict;
-+                }
-+                var versionKey = ver ?? "default";
-+                var dict = new Dictionary<string, CodeEntry>(StringComparer.OrdinalIgnoreCase);
-+                foreach (var e in list)
-+                {
-+                    if (e is null) continue;
-+                    if (string.IsNullOrWhiteSpace(e.Code)) continue; // skip nevalidní záznam
-+                    dict[e.Code] = e; // poslední vyhrává
-+                }
-+                verDict[versionKey] = dict;
-@@
--            foreach (var f in Directory.EnumerateFiles(_folder, "*.json", SearchOption.TopDirectoryOnly))
--            {
--                var baseName = Path.GetFileNameWithoutExtension(f);
--                ...
--                var (raw, ver) = ParseName(baseName);
--                ...
--            }
-+            foreach (var f in Directory.EnumerateFiles(_folder, "*.json", SearchOption.TopDirectoryOnly))
-+            {
-+                try
-+                {
-+                    var baseName = Path.GetFileNameWithoutExtension(f);
-+                    ...
-+                    var (raw, ver) = ParseName(baseName);
-+                    ...
-+                }
-+                catch
-+                {
-+                    // nevalidní soubor – ignoruj, ať služba běží
-+                }
-+            }
-@@
--        if (doc.RootElement.ValueKind == JsonValueKind.Object)
-+        if (doc.RootElement.ValueKind == JsonValueKind.Object)
-         {
-             foreach (var prop in doc.RootElement.EnumerateObject())
-             {
--                yield return new CodeEntry { System = sys, Code = prop.Name, Display = prop.Value.GetString() ?? prop.Name, Version = ver };
-+                var code = prop.Name;
-+                if (string.IsNullOrWhiteSpace(code)) continue;
-+                var disp = prop.Value.ValueKind == JsonValueKind.String ? prop.Value.GetString() : null;
-+                yield return new CodeEntry { System = sys, Code = code, Display = disp ?? code, Version = ver };
-             }
-         }
-         else if (doc.RootElement.ValueKind == JsonValueKind.Array)
-         {
--            var arr = JsonSerializer.Deserialize<List<FileEntry>>(File.ReadAllText(path)) ?? new();
--            foreach (var e in arr)
--            {
--                yield return new CodeEntry
--                {
--                    System = e.System ?? sys,
--                    Code = e.Code,
--                    Display = e.Display,
--                    Version = e.Version ?? ver,
--                    Lang = e.Lang,
--                    Synonyms = e.Synonyms,
--                    Parents = e.Parents,
--                    Active = e.Active
--                };
--            }
-+            var arr = JsonSerializer.Deserialize<List<FileEntry>>(File.ReadAllText(path)) ?? new();
-+            foreach (var e in arr)
-+            {
-+                if (e is null) continue;
-+                if (string.IsNullOrWhiteSpace(e.Code)) continue;
-+                var disp = string.IsNullOrWhiteSpace(e.Display) ? e.Code : e.Display;
-+                yield return new CodeEntry
-+                {
-+                    System = string.IsNullOrWhiteSpace(e.System) ? sys : e.System!,
-+                    Code = e.Code,
-+                    Display = disp!,
-+                    Version = string.IsNullOrWhiteSpace(e.Version) ? ver : e.Version,
-+                    Lang = e.Lang,
-+                    Synonyms = e.Synonyms,
-+                    Parents = e.Parents,
-+                    Active = e.Active
-+                };
-+            }
-         }
+--- a/src/NCEZ.Simulator/Program.cs
++++ b/src/NCEZ.Simulator/Program.cs
+@@ -10,8 +10,12 @@
+ var builder = WebApplication.CreateBuilder(args);
+
+ // Services
+-builder.Services.AddControllers()
+-    .ConfigureApiBehaviorOptions(o => { o.SuppressModelStateInvalidFilter = true; });
++builder.Services.AddControllers(options =>
++{
++    // jednotné vracení 422 z ValidateModelFilter
++    options.Filters.Add<ValidateModelFilter>();
++})
++    .ConfigureApiBehaviorOptions(o => { o.SuppressModelStateInvalidFilter = true; });
+ builder.Services.AddEndpointsApiExplorer();
+ builder.Services.AddSwaggerGen(c =>
+ {
+@@ -33,14 +37,11 @@
+ builder.Services.AddSingleton(new StorageOptions(dataRoot));
+ builder.Services.AddSingleton(typeof(IJsonRepository<>), typeof(JsonRepository<>));
+ builder.Services.AddSingleton<CodeSetService>();
+ builder.Services.AddSingleton<RidService>();
+- builder.Services.AddControllers(options => options.Filters.Add<ValidateModelFilter>());
++builder.Services.AddSingleton<HdrValidator>(); // ← registrace chybějící služby
+
+-builder.Services.AddMvc(options =>
+-{
+-    options.Filters.Add<ValidateModelFilter>();
+-});
++// AddMvc/duplicitní přidání filtru není potřeba
+
+ var app = builder.Build();
+ 

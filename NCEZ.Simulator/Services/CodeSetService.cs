@@ -66,6 +66,7 @@ public sealed class CodeSetService
         if (i > 0) return (fileBase[..i], fileBase[(i + 1)..]);
         return (fileBase, null);
     }
+    
 
     private static string TitleFor(string sys) => sys.ToLowerInvariant() switch
     {
@@ -231,10 +232,10 @@ public sealed class CodeSetService
         return n;
     }
 
-     private void LoadConceptMaps()
+    private void LoadConceptMaps()
     {
         var tmp = new List<ConceptMapEntry>();
-       foreach (var f in Directory.EnumerateFiles(_mapsFolder, "*.json"))
+        foreach (var f in Directory.EnumerateFiles(_mapsFolder, "*.json"))
         {
             var arr = JsonSerializer.Deserialize<List<ConceptMapEntry>>(File.ReadAllText(f), _json);
             if (arr is { Count: > 0 }) tmp.AddRange(arr);
@@ -391,6 +392,13 @@ public sealed class CodeSetService
 
     public IReadOnlyDictionary<string, List<CodeEntry>> ValueSets => _valueSets;
 
+    private static IReadOnlyDictionary<string, string> ToDict(IEnumerable<(string code, string display)> rows)
+            => rows
+                .Where(r => !string.IsNullOrWhiteSpace(r.code))
+                .GroupBy(r => r.code!, StringComparer.OrdinalIgnoreCase)
+                .ToDictionary(g => g.Key, g => string.IsNullOrWhiteSpace(g.First().display) ? g.Key : g.First().display,
+                              StringComparer.OrdinalIgnoreCase);
+
     private readonly Dictionary<string, List<CodeEntry>> _valueSets = new(StringComparer.OrdinalIgnoreCase)
     {
         ["hl7-administrative-gender"] = new List<CodeEntry>
@@ -400,7 +408,154 @@ public sealed class CodeSetService
             new CodeEntry{ System="http://hl7.org/fhir/administrative-gender", Code="other",   Display="Other" },
             new CodeEntry{ System="http://hl7.org/fhir/administrative-gender", Code="unknown", Display="Unknown" }
         }
+     
     };
+
+    #region Mutations: add/update & persist
+
+    /// <summary>
+    /// Přidá nebo aktualizuje kód ve zvoleném systému/verzi a volitelně jej zapíše do souboru.
+    /// </summary>
+    public bool TryAddOrUpdate(CodeEntry entry, bool persist = true)
+    {
+        if (entry is null) return false;
+        var system = NormalizeSystemKey(entry.System);
+        var version = string.IsNullOrWhiteSpace(entry.Version) ? null : entry.Version;
+
+        lock (_gate)
+        {
+            if (!_versions.TryGetValue(system, out var vers))
+            {
+                vers = new(StringComparer.OrdinalIgnoreCase);
+                _versions[system] = vers;
+            }
+
+            var versionKey = version ?? "default";
+            if (!vers.TryGetValue(versionKey, out var dict))
+            {
+                dict = new(StringComparer.OrdinalIgnoreCase);
+                vers[versionKey] = dict;
+            }
+
+            var safeDisplay = string.IsNullOrWhiteSpace(entry.Display) ? entry.Code : entry.Display;
+            var normalized = entry with
+            {
+                System = system,
+                Version = version ?? "default",
+                Display = safeDisplay!
+            };
+
+            dict[normalized.Code] = normalized;
+
+            RebuildMetaFor(system);
+
+            if (!persist) return true;
+            try
+            {
+                PersistEntryToFile(normalized);
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+    }
+
+    /// <summary>
+    /// Overload s parametry.
+    /// </summary>
+    public bool TryAddOrUpdate(string system, string code, string display, string? version = null,
+                               string? lang = null, IEnumerable<string>? synonyms = null,
+                               IEnumerable<string>? parents = null, bool? active = null, bool persist = true)
+        => TryAddOrUpdate(new CodeEntry
+        {
+            System = system,
+            Code = code,
+            Display = display,
+            Version = version,
+            Lang = lang,
+            Synonyms = synonyms?.ToArray(),
+            Parents = parents?.ToArray(),
+            Active = active
+        }, persist);
+
+    private void PersistEntryToFile(CodeEntry e)
+    {
+        var path = FilePathFor(e.System, e.Version);
+        Directory.CreateDirectory(Path.GetDirectoryName(path)!);
+
+        var list = new List<FileEntry>();
+        if (File.Exists(path))
+        {
+            try
+            {
+                using var stream = File.OpenRead(path);
+                using var doc = JsonDocument.Parse(stream);
+                if (doc.RootElement.ValueKind == JsonValueKind.Object)
+                {
+                    foreach (var prop in doc.RootElement.EnumerateObject())
+                    {
+                        var code = prop.Name;
+                        var disp = prop.Value.ValueKind == JsonValueKind.String ? prop.Value.GetString() : null;
+                        list.Add(new FileEntry
+                        {
+                            System = e.System,
+                            Code = code,
+                            Display = string.IsNullOrWhiteSpace(disp) ? code : disp!
+                        });
+                    }
+                }
+                else if (doc.RootElement.ValueKind == JsonValueKind.Array)
+                {
+                    var arr = JsonSerializer.Deserialize<List<FileEntry>>(File.ReadAllText(path)) ?? new();
+                    list.AddRange(arr);
+                }
+            }
+            catch
+            {
+                // poškozený soubor – začni nanovo
+            }
+        }
+
+        var idx = list.FindIndex(x => string.Equals(x.Code, e.Code, StringComparison.OrdinalIgnoreCase));
+        var fe = new FileEntry
+        {
+            System = e.System,
+            Code = e.Code,
+            Display = e.Display,
+            Version = e.Version,
+            Lang = e.Lang,
+            Synonyms = e.Synonyms,
+            Parents = e.Parents,
+            Active = e.Active
+        };
+        if (idx >= 0) list[idx] = fe; else list.Add(fe);
+
+        var json = JsonSerializer.Serialize(list, _json);
+        File.WriteAllText(path, json, Encoding.UTF8);
+    }
+
+    private string FilePathFor(string system, string? version)
+    {
+        var sysKey = NormalizeSystemKey(system);
+        var ver = string.IsNullOrWhiteSpace(version) || string.Equals(version, "default", StringComparison.OrdinalIgnoreCase)
+            ? null
+            : version;
+        var fileBase = ver is null ? sysKey : $"{sysKey}@{ver}";
+        return Path.Combine(_folder, $"{fileBase}.json");
+    }
+
+    private void RebuildMetaFor(string system)
+    {
+        if (!_versions.TryGetValue(system, out var kv)) return;
+        var pick = kv.Keys.First();
+        foreach (var k in kv.Keys) pick = string.CompareOrdinal(k, pick) > 0 ? k : pick;
+        _systems[system] = kv[pick];
+        _meta[system] = new CodeSystemMeta(system, TitleFor(system), pick == "default" ? null : pick, _systems[system].Count, DateTimeOffset.UtcNow);
+    }
+
+    #endregion
 
     #region Helpers: search
 

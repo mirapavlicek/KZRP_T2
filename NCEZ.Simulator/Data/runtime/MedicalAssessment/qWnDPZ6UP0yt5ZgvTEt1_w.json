@@ -1,0 +1,11 @@
+{
+  "patientId": "string",
+  "practitionerId": "string",
+  "type": "string",
+  "result": "string",
+  "effectiveDate": "2025-08-22T07:05:02.824+00:00",
+  "documentRef": "string",
+  "id": "qWnDPZ6UP0yt5ZgvTEt1_w",
+  "createdAt": "2025-08-22T07:05:03.879937+00:00",
+  "modifiedAt": "2025-08-22T07:05:02.824+00:00"
+}

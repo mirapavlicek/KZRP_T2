@@ -1,0 +1,8 @@
+{
+  "receivedAt": "2025-08-22T07:58:39.901941+00:00",
+  "testVariant": "minimal",
+  "format": "application/fhir\u002Bjson",
+  "raw": "{\n  \u0022resourceType\u0022: \u0022Bundle\u0022,\n  \u0022type\u0022: \u0022document\u0022,\n  \u0022entry\u0022: [\n    {\n      \u0022resource\u0022: {\n        \u0022resourceType\u0022: \u0022Composition\u0022,\n        \u0022status\u0022: \u0022final\u0022,\n        \u0022type\u0022: { \u0022coding\u0022: [ { \u0022system\u0022: \u0022http://loinc.org\u0022, \u0022code\u0022: \u002218842-5\u0022, \u0022display\u0022: \u0022Discharge summary\u0022 } ] },\n        \u0022subject\u0022: { \u0022reference\u0022: \u0022Patient/example\u0022 },\n        \u0022date\u0022: \u00222025-01-01T12:00:00Z\u0022,\n        \u0022title\u0022: \u0022Propou\u0161t\u011Bc\u00ED zpr\u00E1va\u0022\n      }\n    },\n    {\n      \u0022resource\u0022: { \u0022resourceType\u0022: \u0022Patient\u0022, \u0022id\u0022: \u0022example\u0022 }\n    }\n  ]\n}",
+  "id": "NpNK2IkCqU6qdv79OAUTuw",
+  "createdAt": "2025-08-22T07:58:39.902064+00:00"
+}
